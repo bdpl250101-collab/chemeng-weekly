@@ -1,0 +1,488 @@
+{
+  "collected_at": "2026-09-28",
+  "lookback_days": 7,
+  "count": 37,
+  "news": [
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "KAI·포스코인터, 멕시코 항공우주 공급망 구축 협력",
+      "source": "디일렉",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:58:06+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTXBGcmlmMmFkc09TOFlmcE5OWGY4RGhfRjduS2NKN29CbWVlb0ctTUxfaXAwZjNiUDR3d1dxcjVkNTZqWjljdWFmcEJZanFuVXdBdzF5RjVPLXJjQU92UFhWYzNTUQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "KAI·멕시코 FEMIA·포스코인터, 항공우주산업 협력 MOU 체결",
+      "source": "서울경제TV",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:31:38+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOVXpOaEFSTDdsQVM3UnM5YjdYZURmTmJhSFVMQ2QyN0NkOUpveGJzZU10c3NuRUZVMDhvdmlLay1fUjBpYjBvQWc3MTZ2V1pTc1BCVENFZldGQ1gyTVdyN3lrNmk?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "KAI·포스코인터, 멕시코 항공우주산업과 맞손…‘FA-50’ 중미 공략",
+      "source": "뉴스토마토",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:00:30+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LSEVRQlRJV19aMEp4eE9VQzhBNkl6Y1c4QVdQdC01UzRhMzh1dEE3RF9TdHdkYTYtUmVlUER2VFp6NFk4NHQySG1pYkJMa0Zwdjg3aHFSb19wSVl4WnhrNQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "‘반세기 만의 파업’ 포스코… 10월 2일 노조 선거에 임협 향방 걸렸다",
+      "source": "straightnews.co.kr",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:53:18+09:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWl93UUlNWnJQUUhuRTZsd0pkSkUtR2phLVMwc2dRcWpfREw0TmFMVElxNWh6UEpwSGxVQmQ4VW9yQ2ZRR3VsRHNLdGxpU2U0OFR2RHlsS3NBZi16cjRybTJhZ0ktY1RfbWJmS3JncC1yRFl1ZElz0gF3QVVfeXFMTkpaX3dRSU1aclBRSG5FNmx3SmRKRS1HamEtUzBzZ1Fxal9ETDROYUxUSXE1aHpQSnBIbFVCZDhVb3JDZlFHdWxEc0t0bGlTZTQ4VHZEeWxLc0FmLXpyNHJtMmFnSS1jVF9tYmZLcmdwLXJEWXVkSXM?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "KAI, 포스코인터·FEMIA와 항공우주산업 협력 확대",
+      "source": "서울경제",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:30:19+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKQjk5bHphR0IzOXV2ZGpHZUxpS3htRXlldUdVMzA0dk5Hb1V4UVVBQWpVWWpNdHRvLVdOMnhiZVBmV0N5RHFNaVJpYnlDUVBMbGfSAVNBVV95cUxQR3FCWWtzVDFSOXF4M3dOam5SY0hiRkJseE5PeE9iNmpvWUwtbm1zUm5Cd3owVlhmVkJISGl3SXdzTWNUdHd5WDliemI4V1V4YnIwTQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "티엑스알로보틱스, GS칼텍스 여수공장에 소화로봇 공급",
+      "source": "뉴스핌",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:25:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmTEJWSHdzbHZ0RzBmOUwwVVpoVWdXNFo0NGVfa09mYUxFVEVhNTExWlYzSUlhOUNEdVpEaE9scTB5WnZLZHBOaEkzVkZCc3pFVGNfSURkUDhGVGh4?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "티엑스알로보틱스, GS칼텍스 여수공장에 소화로봇 공급…\"사람 대신 위험지역 먼저 들어간다\"",
+      "source": "디지틀조선일보",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:26:07+09:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QNHFnZml2M082cnZjNkxOVVRGMnhvTllTaWJZOEtHNFpDc0htS1RrT01OS052LS1ETkctclhndnpsZjRveVgwYzVtb2lZcGlaYjZBNWc2ZE13Q3VwTUVELWpzY3lMUVNrYVpuRUg1XzdJek1zZENoVDBMRdIBe0FVX3lxTE1QNHFnZml2M082cnZjNkxOVVRGMnhvTllTaWJZOEtHNFpDc0htS1RrT01OS052LS1ETkctclhndnpsZjRveVgwYzVtb2lZcGlaYjZBNWc2ZE13Q3VwTUVELWpzY3lMUVNrYVpuRUg1XzdJek1zZENoVDBMRQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "티엑스알로보틱스, GS칼텍스 여수공장에 '소화로봇' 투입",
+      "source": "v.daum.net",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:02:41+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoWVdkOEpLdzVfLU1IMmlKWk5EOUhRZm9WREN2TXRVamR4QWsyc3JJbWI2bnBoR0c5cHo2UGJ3Z25mT09ZR2d3ckkyUzdDRk0?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, LFP 탑재 ESS 설루션 화재 안전성 입증",
+      "source": "헤럴드경제",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:24:37+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00OEJqWFFCYXVjRUk3SEhMd21WOWlwQk9uS2lOY0JWYWp2dkVuQkxGZ0xPVlk5a05TTk9YMXNtTGxqeUNRM2FicW5SajNEY3EzQ3NKNVZB?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI LFP ESS ‘SBB 2.0’, UL 대형 화재 시험 통과",
+      "source": "포쓰저널",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:12:22+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SFhHN1lEWGhGV3p6b0h5Vm9hRUg2XzVUbWliMzN0VjVNVDNKb25SenlGSkI0V0ZEQzRaUnZabmhwOXBVcXZ1YmpaZlg4cVlud3lfdEduUm1qVUJ3cEtzVktLWQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, LFP배터리 화재 안전성 '글로벌 인증' 통과",
+      "source": "전자신문",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:11:16+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fREJETE0tNWlBUmxrZjJXN3pOMVlKRHczY25nTlp4NHU5VkZvbHNNa1FJb3gxTWluZmM2eGhxZGRoVDRlVEd0R1VyNkQxdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, LFP 배터리 탑재 ESS 화재 안전시험 통과",
+      "source": "edaily.co.kr",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:09:55+09:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHJ4NW5qMXJ1SVA0eVl1TjlzQmVRZ2RlNUo0MWR0dkYxbDhTTk1zV1hxbXM5YUZtdmZSNks3YWdHS3RLU2lydzZTbW5TMGhQVlpJdS1kaXZ3dnE5ck1ZV0pHcVlnSGFfYlh5Y1AtMzJFcDBBRjdaMWN4VkhhWVlSeg?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, LFP 탑재 ESS 글로벌 화재 안전 테스트 통과",
+      "source": "서울경제",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:57:55+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rNzJiMGxiMDkyRVFrNFRCeGl0b3RfdnFOTUpIaUZUTmFWbGk4Ml9XelhEbkdlM2Fob2RPaEItdGlfVGZlWVltY21PRU10TVh6b1HSAVNBVV95cUxOMHh6dVFUUkdObGF4dFFWdlh5YnI5RDBoWTBPT0RDd2NlUmhpZ3ktTUNwVHRyek11Zkp1X3FHdnl2S3FxNEdwTENGakwwNndObWh6bw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, '가전 구독 서비스' 전면 개편...신혼·시니어·기업 맞춤 케어 강화",
+      "source": "오피니언뉴스",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T12:12:54+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HWUpHN3lRaEZwOXQtQ21MMGw5cHBqbGhSZENIaFBmSFNGZW02d1lESDBBeDd6WEx0cUMwblpSUFdFMVZzOU5kR3ZFY3lxLUdhRzVuWWhXTjdRdHg2N29xNFM4MTJqX1R3ZHh0Z2dMdzM?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, 구독 연매출 1조 ‘눈앞’…브랜드 개편·B2B 영토 확장",
+      "source": "매일일보",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:57:56+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZURJckpPaExHVGg4RlgzVnZrcWpuQXNYemE2bzZla2FCY3ZQQVdWY0tKZjR6WHlDb3RaNXlWcHd5bWVCQ1dvbmJqd0xYR3VhcmJVQWRfaG44NGdIR2syUVJJY1jSAWhBVV95cUxPVGU2WGdqa0Y5Ti1YZG1McW1ISzRkNVlCYWU0VHRsUmxEbVJuNmxkRF84NjVwTXRRLTRLb2w3M3dGNktNY3dDYlRjOVFjcjN1WnM0ZGlxeXJpcjNJaXk0MlBRM3o1VTRSMA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, '서비스 혁신으로 AI 구독 새 시대 선언'...신혼·시니어·기업 맞춤 서비스 강화",
+      "source": "aitimes.kr",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:41:52+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UTGlaN2gySHQ4WmxlLWdZbzFMWk1WUEJHVEhiYUNxSnMwUnhNV1lSc1lrUUN1Z2lxMUIxb3pRMVZiNFlQb21jQ3VFeDJ1cm1sUmV0OFhtOTFNTG52RWlTTjZPMy1iSVk?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, 가전 구독 실적 ‘1조원 눈앞’…다음은 호텔·은행",
+      "source": "글로벌이코노믹",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:37:12+09:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVWMtSkEyc3NqU0Z1TlNVblRaR2VmcGQ3SVBmdUlZUkNObFpnNF9DQ0hmdl9JN3Frd1JIaFpZMG5FZ2prNnRYTFZPRkd0Rk1BX2ZSUXFvb2d5OTVCYm4yOXZudGZPU3k4dW9KdVMzb21vWDBFcC1ISWVyckczWmU1Z0lmYkR2Zw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자 동행노조, 신임 위원장 선출",
+      "source": "전자신문",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:17:12+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01MTc4YUFuYmNiamxSZTJObzk1VmJscm9uTWJZc1M0WnNZT1BpT250NzFDUHA5c1hHREVBc3JuQW94SW9yMXNOMFJzRGUtZw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "광양시, 폭염 장기화 대응 '클린로드' 운영 총력",
+      "source": "진일보",
+      "published": "2026-08-06",
+      "published_at": "2026-08-06T16:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zWmIyNUY1cEwxbXlhaWo1b3FBMkJtLVBKd3N1OUZuTmlrVm5WMTdFVGxPR0pDalZPS3JKcUJHTnZvcW1kUXhSdkpsa2oxV2pZWFRoZWF6eU1UUjdET3h4X2tTeDRYbGtPeDdBZWlTYw?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 90
+    },
+    {
+      "companies": [
+        "linde_korea"
+      ],
+      "title": "린데코리아, 지구의 날 맞아 임직원 참여 나무심기 봉사 진행",
+      "source": "온라인가스저널",
+      "published": "2026-04-24",
+      "published_at": "2026-04-24T16:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QSDZHYlhpU1pTUXlWMTdibFMzQS13NTBwNndkZEp2cmtYbFctSS04RTE4eUxHSy16YWlnZjc1SGNzVTk0ZFJTZnpWZ3c4V2JDRHA1ZFlpYW1yZzBUcHlkMk82ZC1COF9o?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 180
+    },
+    {
+      "companies": [
+        "linde_korea"
+      ],
+      "title": "고덕면 이장협의회와 단체협의회, 추석 명절 취약가구에 후원 물품 전달",
+      "source": "경인경제",
+      "published": "2026-09-21",
+      "published_at": "2026-09-21T17:26:04+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNnJYNWV1TzlSVWVydWo4MEpqRmpHMk96TWd3d2JoMGpPSElQQ0kxNkJRbDE4SGM0NzhwYXFma1FUMVp2a3hPSGY3Y1pFM3ZJU3F6Sk1nMmNnNnNEZlRvTzg2R0tEbzRhQVE?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 180
+    },
+    {
+      "companies": [
+        "linde_korea"
+      ],
+      "title": "린데 가스, 스웨덴 룰레오에 신규 공기분리장치 건설 추진",
+      "source": "2news.co.kr",
+      "published": "2026-04-22",
+      "published_at": "2026-04-22T16:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2a0NIajU1RzZvdjVZY21USDhidFdyU0lFZ0NlXzVzU3dSRkNlZjRTa3B2VEpQeDVtRW9qQXJydzlING1PblVDNkp3Z0UxelgzLXU5V3VNODZTUmd3Zm9NbEhoeDYtTGM?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 180
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "태양광株 급등…한화솔루션·OCI홀딩스 10%대 강세",
+      "source": "이코노뉴스",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:39:01+09:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BN0k3cVdDbFRFYlBISHhfdVRGb2JhZ24tdjZERGJtZUwtTXE1TkpidWxlUERBbzFLZjgybU1jRzNTaE9PbUpMZ1BUc3VWcGV1RWRobEgxQndmOEFKbXZMM2NmQlkxNnF0U0JsQXpJTQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "[특징주] 한화솔루션·OCI홀딩스, 美 태양광 가격 상승에 10%대 급등",
+      "source": "v.daum.net",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:33:11+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RcE5JSkE2WU0wcmQtZFEwRDItOHg2SW5fdXB6aXlrY3FGaVh3eUp2ZXNwYjR2dC1RRjlGM1dLcUo1TWVRM0hoVlpfdW1UWW8?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "\"美 태양광 가격 더 오른다\"…한화솔루션·OCI홀딩스 동반 강세",
+      "source": "hankyung.com",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:30:34+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNWlLQl9BYnFPWk5XV3V0cmdacEdpQjNkT0FlajdFeWI1MjduczQ4UnowZ0NxYkdRaWxCUGd2RzZ0NWRDMVVyakUwV2pDdlNkMXlXRk9neXhfUQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "[특징주] 미국 태양광 가격 상승에 한화솔루션·OCI홀딩스 등 급등",
+      "source": "이투데이",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:15:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5icF9VTkVZMV8yUi1iU1JnUUtTQ2xxOE9iMzN0SmlSR2NiYVVUTm1pQ2hxQUFhcFhiQkE0WXZmSkJXRHBYQzVEUktjNVAtUGRJaFNaWg?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "AI 데이터센터발 전력난 속 태양광주 '방긋'… OCI홀딩스·한화솔루션 급등",
+      "source": "핀포인트뉴스",
+      "published": "2026-09-27",
+      "published_at": "2026-09-27T07:21:44+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aFFtdklqUmFvallZM0tZbnFOeHlETDZxaVRQYklOZkNhVGdidFVuSG8xTERnaEVYbXhPdG5QWjNiTGUxWThpRVlwVTdnMTFwSHlFUnl2OVRDbmRSZ2d6djc1Y1NfU01CQ3NhMF9ydHBzTGfSAXdBVV95cUxOQUtac0swekdYVlNNWWZXdkt3bVkzSklIYThPUGYzNF9JeERUdDFBUFBFR2ExRXdmdERqMDRSdmlVS0ZjZEZHQUMwREdXMVlSUDNvaW1rUGhFRTVxeUNxNXEzclJJYTdNV1NScld3MUtOSV9UX3I1OA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차·기아, 美 누적판매 1500만대… RV 비중 70%",
+      "source": "문화일보",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:59:58+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Eb0pMb2FjbFgwUDhmNmhreGc0Vk0xbk93OWFuWS1lam40LUYtMEx4NWwyMzZXLUpCcEl6eWpORUdURWw3SWlXVEpkdmdqYlFy?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 국내 최대규모 모터스포츠 축제 '월드 투어링카 페스티벌' 10월 인제서 개최",
+      "source": "오피니언뉴스",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:26:04+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sd2RuOTliajFfaTdDVTZ5VDYtZ1dDSi1UNF9ocUFmdndCVGFxa0lDaXRKeURkLS04Y0xEcXkzVFZETzYzOThxVzB1TXJvdFlfZTRnQzdocTdlUHFfZENBa3l1MU9WdWJycUtKQXZGVVI?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "[김필수 칼럼] 현대차그룹, 과연 글로벌 No.1은 가능한가?",
+      "source": "dailycar.co.kr",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:19:08+09:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjWXRmMzJzZHYxVmtZa1FCRHhPMldXNm53UnFaOXB0MzBIcEhNdkJ2NTBXU0F5Y3dDZFdIenBkU29KTmNRN24xWU5ZMHB2bjFoWEowLVJkS1FXZDRjbXI5RURqOTlWNnZaWHFJVWFNc0FWbmxzSFE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, ‘인제 월드투어링카 페스티벌’ 10월개최…강원서 열리는 글로벌 레이스",
+      "source": "동아일보",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:19:06+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95MnNYTUdoNmFZVGJHV1Byb3hua2NEZ3hEM0xwQVp0eG9LeElDejRtMFJGSE95TmRmZjVIek52UC1YR01pSUhaSWdnV0x2aFExNndaamlhMk4yMVFMbVd6M1oyZF9vd9IBZkFVX3lxTE95MnNYTUdoNmFZVGJHV1Byb3hua2NEZ3hEM0xwQVp0eG9LeElDejRtMFJGSE95TmRmZjVIek52UC1YR01pSUhaSWdnV0x2aFExNndaamlhMk4yMVFMbVd6M1oyZF9vdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 中 재공략 신호탄 '아이오닉 V' 29일 출시…현지서 2000만원대 가격 승부",
+      "source": "뉴시스",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:17:45+09:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03TEh0WjM0c2ZodF91ZTNVYUF2a2dIRWVMTVhxbDBkSkprcXBhb3AwaDcxRWdjSFN6SUZLYlRWZmo0Z1FDb0VXaWp2b1hneV93OVBUdVEydmhIUkg2aWJBbmN1MUZPMC1yM0tSX240VmxPQXdGdGstM9IBeEFVX3lxTE03TEh0WjM0c2ZodF91ZTNVYUF2a2dIRWVMTVhxbDBkSkprcXBhb3AwaDcxRWdjSFN6SUZLYlRWZmo0Z1FDb0VXaWp2b1hneV93OVBUdVEydmhIUkg2aWJBbmN1MUZPMC1yM0tSX240VmxPQXdGdGstMw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "몸값 204조 솔리다임 美 상장설…SK ‘5단 중복상장’ 논란 재점화",
+      "source": "IT조선",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T11:05:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9INkdZenlOd0Z4VURXb21VekZmNFluei1kSmFMRWluczFlVjB1VWR1Zmg1SEtzbm1hNjVRNlpDNDhzYnc4VUY2VlNoVWlpb0dkdjFhTlRqNWZoQjVBNy1neU5xWHU2MzhlcEVISk9udW9DRzBK0gF0QVVfeXFMT0g2R1l6eU53RnhVRFdvbVV6RmY0WW56LWRKYUxFaW5zMWVWMHVVZHVmaDVIS3NubWE2NVE2WkM0OHNidzhVRjZWU2hVaWlvR2R2MWFOVGo1ZmhCNUE3LWd5TnFYdTYzOGVwRUhKT251b0NHMEo?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "손자회사 솔리다임 미국 상장설에…SK하이닉스, 장초반 4%대 약세",
+      "source": "매일경제 마켓",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:47:19+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTFIxTU5BUFpjcGJ2YndhbEVHZjN2LVc5LVNyZU9MQXpNam5uUFlFbG15T0ZvbFNVOUY2Q282bjN1Q1RaNkRZQ2E2QnpLT0k0d3c?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "[특징주] 삼성전자·SK하이닉스, 美 국채금리 급등에 2%대 약세",
+      "source": "뉴스핌",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T10:01:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZT3Y4RmdIUWVXQXVtbkZ6eXdRRUNaV1p3bEU3RWdCbTFFMkJwNnJsb0dvM25kRGFQS251RDZyYWhaZGtvOWZnVkduaEI2SzBoQ3BqQ3hfU0tkN0FB?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "대신證 \"SK하이닉스, HBM4·해외 투자 이슈 타격 없어…목표가 320만원\"",
+      "source": "뉴스1",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:58:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6VW8yQ0hOSWpvVDlmc1FiN1dzN1BOUkZVWmtPZ01vQS1NaTZMdGNrUEhtRGdvb2JvaFpncjc3ZlV4XzNraUVaREEtWWRzQjVlQVNQT0VwRmN6dzQ1MzNZ0gFkQVVfeXFMUHNpMVhwZVp2X2c1MGN1R2dHR3FmRHM2dDNIQnRDZUx5QnJYVng3OC1zTVV6T1M0d3RrMWNKQWc4dzh5NGVJZTAwUFQ3d21oMDdJaFhnVENKa2xyOEl1Z3F2M1dhaw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK텔레콤, 하나금융그룹 청라 신사옥에 ‘5G 특화망’ 스마트 오피스 구축 - 조선비즈",
+      "source": "Chosunbiz",
+      "published": "2026-09-28",
+      "published_at": "2026-09-28T09:43:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbThUM2dxVDRmejl6RHRXOUpNc0xmdmtaWFcwSE9SS3JxSm9DUkgteGVBYUhQb194bFAxa2lwdW1DOFNBQUhfWlRHdGRqZnl5SlVaVmRJN1NRWGkybDVfaFA0cnZwMVB6UGlNRU85eHVlREkwcERKb3V4NG02LXR3X1ZR0gGWAUFVX3lxTE1hQzV0WUwxc0FzaHJpdl91WDdmdE4yRXpJZGRUa2lGMkc2WE9iTHA1YkhCOEk3Z0xlRUVMNkpEcE9Fa0hwaUhqRHRHZzJxTk9lR1J1WEQyeXd6d1pnQUtKdUVySk9QT1JGTWhGM3g5a2c5WmZOclVaWEtUbHhnZXN3LVFQR3FlTm42bTNMeDUxS0NNYmx2Zw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    }
+  ]
+}
