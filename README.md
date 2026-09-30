@@ -22,6 +22,8 @@ data/papers, data/news                주차별 원본 아카이브
 data/latest.json                      대시보드가 읽는 최신 스냅샷
 docs/                                 GitHub Pages 배포 루트
 templates/dashboard.html.j2           대시보드 템플릿
+docs/manifest.webmanifest, docs/sw.js 휴대폰 앱(PWA) 설정·오프라인 캐시
+docs/icons/                           앱 아이콘
 ```
 
 ## 진행 상황
@@ -30,6 +32,19 @@ templates/dashboard.html.j2           대시보드 템플릿
 - [x] **STEP 1** 논문 수집기 (Crossref)
 - [x] **STEP 2** 기업 뉴스 수집기 (Google News RSS)
 - [x] **STEP 3** 대시보드 렌더링 + GitHub Pages 자동 배포
+
+## 휴대폰 앱으로 설치
+
+대시보드는 설치형 웹앱(PWA)이다. 앱스토어 없이 홈 화면에 아이콘으로 설치된다.
+
+- **아이폰**: Safari 로 사이트를 열고 공유 버튼 → "홈 화면에 추가"
+- **안드로이드**: Chrome 으로 열고 메뉴 → "앱 설치" 또는 "홈 화면에 추가"
+
+휴대폰 화면에서는 하단 탭(논문 · 뉴스 · 채용 · 화공 · 계획)이 나온다.
+"화공" 은 `src/config.py` 의 `CHEM_SITE_URL`(chemeng_study 사이트)을 연다.
+"계획" 의 할 일은 그 기기의 브라우저 저장소에만 남으며 기기 간에 동기화되지 않는다.
+오프라인이면 마지막으로 받아 둔 대시보드를 보여 준다.
+`docs/assets/` 를 크게 바꾸면 `docs/sw.js` 의 `CACHE` 버전을 올려 옛 캐시를 비운다.
 
 ## GitHub Pages 설정 (최초 1회)
 

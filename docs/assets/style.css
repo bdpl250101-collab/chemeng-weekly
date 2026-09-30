@@ -840,3 +840,167 @@ body {
   .rolebar { padding: 14px 16px; border-radius: 16px; }
   .rolechip { font-size: 0.8rem; padding: 4px 10px; }
 }
+
+/* ── 기본 버튼 ────────────────────────────────────────────────── */
+.btn-primary {
+  min-height: 48px;
+  padding: 0 24px;
+  background: var(--primary);
+  color: var(--card);
+}
+
+/* ── 내 계획 ──────────────────────────────────────────────────── */
+/* 기록은 localStorage 에만 있다. 체크 상태는 색이 아니라 취소선과 글자로도 구분한다. */
+.plan-card { max-width: 820px; }
+
+.plan-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 22px 28px;
+  border-bottom: 1px solid var(--line);
+}
+
+.plan-input,
+.plan-date {
+  min-height: 48px;
+  padding: 0 16px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--card-soft);
+  color: var(--text);
+  font: inherit;
+  font-size: 1rem; /* 16px 미만이면 iOS 가 입력 시 화면을 확대한다 */
+}
+
+.plan-input { flex: 1 1 260px; min-width: 0; }
+.plan-date  { flex: 0 1 170px; }
+
+.plan-input:focus,
+.plan-date:focus {
+  outline: 2px solid var(--primary-2);
+  outline-offset: -1px;
+}
+
+.plan-list { list-style: none; margin: 0; padding: 0; }
+
+.plan-list li {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 28px;
+  border-bottom: 1px solid var(--line);
+}
+
+.plan-list input[type="checkbox"] {
+  width: 22px;
+  height: 22px;
+  flex: none;
+  accent-color: var(--primary-2);
+}
+
+.plan-text { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+
+.plan-list li.done .plan-text {
+  text-decoration: line-through;
+  color: var(--text-muted);
+}
+
+.plan-due {
+  flex: none;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 99px;
+  background: var(--chip-bg);
+  color: var(--chip-ink);
+  white-space: nowrap;
+}
+
+.plan-due.urgent { background: var(--urgent-bg); color: var(--urgent-ink); }
+.plan-due.past   { background: transparent; color: var(--text-muted); border: 1px solid var(--line); }
+
+.plan-del {
+  flex: none;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.plan-del:hover { background: var(--card-soft); color: var(--text); }
+
+.plan-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 28px;
+  font-size: 0.86rem;
+  color: var(--text-soft);
+}
+
+.plan-foot:has(.plan-summary:empty):has(.plan-clear[hidden]) { display: none; }
+
+/* ── 하단 탭 바 (휴대폰) ──────────────────────────────────────── */
+.tabbar { display: none; }
+
+@media (max-width: 620px) {
+  .plan-form { padding: 18px 20px; }
+  .plan-list li { padding: 12px 20px; gap: 12px; }
+  .plan-foot { padding: 14px 20px; }
+  .plan-date { flex: 1 1 140px; }
+
+  /* 탭 바가 있으니 상단 메뉴는 브랜드와 테마 버튼만 남긴다 */
+  .main-nav { display: none; }
+  .nav-wrapper { flex-wrap: nowrap; padding: 12px 0; }
+  .site-header { padding-top: env(safe-area-inset-top); }
+
+  body { padding-bottom: calc(68px + env(safe-area-inset-bottom)); }
+  section[id] { scroll-margin-top: 72px; }
+
+  .tabbar {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    padding-bottom: env(safe-area-inset-bottom);
+    background: color-mix(in srgb, var(--card) 88%, transparent);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid var(--line);
+  }
+
+  .tabbar a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    min-height: 60px;
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .tabbar svg {
+    width: 24px;
+    height: 24px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .tabbar a.active { color: var(--primary-2); }
+  .tabbar a.active svg { stroke-width: 2.3; }
+}

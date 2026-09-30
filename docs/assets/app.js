@@ -1,4 +1,4 @@
-/* 주간 연구 대시보드 — 테마 토글 + 검색 필터 (의존성 없음) */
+/* 주간 연구 대시보드 — 테마 토글 + 검색 필터 + 내 계획 + 앱 탭 (의존성 없음) */
 
 (function () {
   "use strict";
@@ -52,7 +52,7 @@
   if (!input) return;
 
   var items = Array.prototype.slice.call(document.querySelectorAll(".items > li"));
-  var sections = Array.prototype.slice.call(document.querySelectorAll(".topic-card"));
+  var sections = Array.prototype.slice.call(document.querySelectorAll(".topic-card:not(.plan-card)"));
   var noResults = document.querySelector(".no-results");
 
   // 검색 대상 문자열을 미리 만들어 둔다 (입력마다 DOM 을 다시 읽지 않도록)
@@ -102,3 +102,194 @@
     }
   });
 })();
+
+
+// ── 내 계획 ──────────────────────────────────────────────────────
+// 기록은 이 기기의 localStorage 에만 저장한다. 저장이 막힌 환경(프라이빗 모드)에서는
+// 메모리에서만 동작하고 새로고침하면 사라진다는 점을 요약줄에 알린다.
+(function () {
+  "use strict";
+
+  var form = document.querySelector(".plan-form");
+  if (!form) return;
+
+  var KEY = "plan-items";
+  var list = document.querySelector(".plan-list");
+  var empty = document.querySelector(".plan-empty");
+  var summary = document.querySelector(".plan-summary");
+  var clearBtn = document.querySelector(".plan-clear");
+  var persistent = true;
+  var items = [];
+
+  try {
+    items = JSON.parse(localStorage.getItem(KEY) || "[]");
+    if (!Array.isArray(items)) items = [];
+  } catch (e) {
+    persistent = false;
+    items = [];
+  }
+
+  function save() {
+    if (!persistent) return;
+    try { localStorage.setItem(KEY, JSON.stringify(items)); }
+    catch (e) { persistent = false; }
+  }
+
+  function todayISO() {
+    var d = new Date();
+    d.setMinutes(d.getMinutes() - d.getTimezoneOffset());
+    return d.toISOString().slice(0, 10);
+  }
+
+  function daysLeft(due) {
+    var a = Date.parse(todayISO() + "T00:00:00Z");
+    var b = Date.parse(due + "T00:00:00Z");
+    return Math.round((b - a) / 86400000);
+  }
+
+  function dueBadge(item) {
+    if (!item.due) return null;
+    var n = daysLeft(item.due);
+    var span = document.createElement("span");
+    span.className = "plan-due";
+    span.title = item.due + " 마감";
+    if (n < 0) {
+      span.textContent = -n + "일 지남";
+      span.classList.add("past");
+    } else {
+      span.textContent = n === 0 ? "D-day" : "D-" + n;
+      if (n <= 3 && !item.done) span.classList.add("urgent");
+    }
+    return span;
+  }
+
+  function sorted() {
+    return items.slice().sort(function (a, b) {
+      if (a.done !== b.done) return a.done ? 1 : -1;
+      if (a.due && b.due && a.due !== b.due) return a.due < b.due ? -1 : 1;
+      if (!!a.due !== !!b.due) return a.due ? -1 : 1;
+      return a.created - b.created;
+    });
+  }
+
+  function draw() {
+    list.textContent = "";
+    sorted().forEach(function (item) {
+      var li = document.createElement("li");
+      if (item.done) li.className = "done";
+
+      var box = document.createElement("input");
+      box.type = "checkbox";
+      box.checked = item.done;
+      box.setAttribute("aria-label", item.text + (item.done ? " 완료 취소" : " 완료"));
+      box.addEventListener("change", function () {
+        item.done = box.checked;
+        save();
+        draw();
+      });
+
+      var text = document.createElement("span");
+      text.className = "plan-text";
+      text.textContent = item.text;
+
+      var del = document.createElement("button");
+      del.type = "button";
+      del.className = "plan-del";
+      del.textContent = "×";
+      del.setAttribute("aria-label", item.text + " 삭제");
+      del.addEventListener("click", function () {
+        items = items.filter(function (x) { return x.id !== item.id; });
+        save();
+        draw();
+      });
+
+      li.appendChild(box);
+      li.appendChild(text);
+      var badge = dueBadge(item);
+      if (badge) li.appendChild(badge);
+      li.appendChild(del);
+      list.appendChild(li);
+    });
+
+    var open = items.filter(function (x) { return !x.done; }).length;
+    var done = items.length - open;
+    empty.hidden = items.length > 0;
+    clearBtn.hidden = done === 0;
+    var parts = [];
+    if (items.length) parts.push("남은 일 " + open + "개 · 완료 " + done + "개");
+    if (!persistent) parts.push("저장이 막힌 브라우저라 새로고침하면 사라집니다");
+    summary.textContent = parts.join(" · ");
+  }
+
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+    var text = form.elements.text.value.trim();
+    if (!text) return;
+    items.push({
+      id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+      text: text,
+      due: form.elements.due.value || "",
+      done: false,
+      created: Date.now()
+    });
+    save();
+    form.reset();
+    form.elements.text.focus();
+    draw();
+  });
+
+  clearBtn.addEventListener("click", function () {
+    items = items.filter(function (x) { return !x.done; });
+    save();
+    draw();
+  });
+
+  // 다른 탭(또는 설치된 앱과 브라우저)에서 바꾼 내용을 따라간다
+  window.addEventListener("storage", function (event) {
+    if (event.key !== KEY) return;
+    try { items = JSON.parse(event.newValue || "[]"); } catch (e) { return; }
+    draw();
+  });
+
+  draw();
+})();
+
+// ── 하단 탭 바: 지금 보고 있는 섹션 표시 ─────────────────────────
+(function () {
+  "use strict";
+
+  var tabs = Array.prototype.slice.call(document.querySelectorAll(".tabbar a[data-tab]"));
+  if (!tabs.length) return;
+
+  // 화면 위쪽 35% 기준선을 지난 마지막 섹션을 현재 탭으로 본다. 맨 위(히어로)에서는 없음.
+  function update() {
+    var line = window.innerHeight * 0.35;
+    var current = null;
+    tabs.forEach(function (a) {
+      var el = document.getElementById(a.dataset.tab);
+      if (el && el.getBoundingClientRect().top < line) current = a.dataset.tab;
+    });
+    tabs.forEach(function (a) {
+      var on = a.dataset.tab === current;
+      a.classList.toggle("active", on);
+      if (on) a.setAttribute("aria-current", "true");
+      else a.removeAttribute("aria-current");
+    });
+  }
+
+  var queued = false;
+  window.addEventListener("scroll", function () {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(function () { queued = false; update(); });
+  }, { passive: true });
+  window.addEventListener("resize", update);
+  update();
+})();
+
+// ── 앱 설치(PWA): 오프라인에서도 마지막 화면을 볼 수 있게 ────────
+if ("serviceWorker" in navigator && location.protocol !== "file:") {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("sw.js").catch(function () { /* 설치 실패해도 사이트는 동작 */ });
+  });
+}

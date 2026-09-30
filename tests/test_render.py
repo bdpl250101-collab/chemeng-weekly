@@ -180,6 +180,32 @@ def test_render_handles_empty_snapshot():
     assert "이번 주 신규 소식이 없습니다." in html
 
 
+def test_render_includes_app_shell():
+    """휴대폰 앱(PWA) 설치에 필요한 태그와 하단 탭·계획 섹션이 들어가야 한다."""
+    snap = render.build_snapshot([], [], lookback_days=7,
+                                 now=datetime(2026, 8, 11, tzinfo=KST))
+    with tempfile.TemporaryDirectory() as tmp:
+        path = render.write_snapshot(snap, Path(tmp) / "latest.json")
+        html = render.render(snapshot_path=path,
+                             output_path=Path(tmp) / "index.html").read_text(encoding="utf-8")
+    assert 'rel="manifest" href="manifest.webmanifest"' in html
+    assert 'rel="apple-touch-icon"' in html
+    assert 'class="tabbar"' in html
+    assert 'id="plan"' in html
+    assert config.CHEM_SITE_URL in html
+
+
+def test_app_files_exist():
+    """매니페스트가 가리키는 아이콘과 서비스 워커가 docs/ 에 실제로 있어야 한다."""
+    import json
+    docs = Path(__file__).resolve().parents[1] / "docs"
+    manifest = json.loads((docs / "manifest.webmanifest").read_text(encoding="utf-8"))
+    for icon in manifest["icons"]:
+        assert (docs / icon["src"]).is_file(), icon["src"]
+    assert (docs / "sw.js").is_file()
+    assert (docs / "icons" / "apple-touch-icon.png").is_file()
+
+
 if __name__ == "__main__":
     failures = 0
     for name, fn in sorted(globals().items()):

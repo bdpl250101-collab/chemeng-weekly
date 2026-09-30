@@ -272,6 +272,7 @@ def render(
         news_total=len(snapshot["news"]),
         job_total=len(snapshot.get("jobs", [])),
         job_new_total=sum(1 for j in snapshot.get("jobs", []) if j.get("is_new")),
+        chem_site_url=config.CHEM_SITE_URL,
     )
 
     output_path.parent.mkdir(parents=True, exist_ok=True)

@@ -6,6 +6,14 @@
   <title>주간 연구 대시보드 · 2026-W40</title>
   <meta name="description" content="전기화학 촉매·유기 촉매·PFAS 분해·OER/HER 신규 논문과 국내 기업 동향 주간 요약" />
   <meta name="color-scheme" content="light dark" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#153f35" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Research" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" href="icons/favicon-32.png" />
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
@@ -21,6 +29,8 @@
       <a href="#papers">신규 논문</a>
       <a href="#news">기업 동향</a>
       <a href="#jobs">채용공고</a>
+      <a href="https://bdpl250101-collab.github.io/chemeng_study/" target="_blank" rel="noopener">화공 개념</a>
+      <a href="#plan">내 계획</a>
     </nav>
 
     <button type="button" class="btn btn-secondary btn-sm theme-toggle">다크 모드</button>
@@ -1550,6 +1560,34 @@ title="전용 채용 사이트가 없어 사람인 검색 결과로 연결됩니
   </div>
 </section>
 
+<section class="section section-alt" id="plan">
+  <div class="container">
+    <div class="section-head">
+      <span class="section-kicker">내 계획</span>
+      <h2>할 일과 마감</h2>
+      <p>
+        자소서 마감, 공부 계획, 읽을 논문을 적어 두세요. 마감일이 가까운 순으로 정렬합니다.
+        기록은 이 기기의 브라우저에만 저장되며 서버로 보내지 않습니다.
+      </p>
+    </div>
+
+    <article class="topic-card plan-card">
+      <form class="plan-form" autocomplete="off">
+        <input type="text" name="text" class="plan-input" placeholder="할 일 입력 (예: 미쓰비시케미칼 자소서 제출)"
+               aria-label="할 일" maxlength="200" required />
+        <input type="date" name="due" class="plan-date" aria-label="마감일 (선택)" />
+        <button type="submit" class="btn btn-primary">추가</button>
+      </form>
+      <ul class="plan-list" aria-live="polite"></ul>
+      <p class="empty plan-empty">아직 적어 둔 계획이 없습니다.</p>
+      <div class="plan-foot">
+        <span class="plan-summary"></span>
+        <button type="button" class="btn btn-secondary btn-sm plan-clear" hidden>완료 항목 지우기</button>
+      </div>
+    </article>
+  </div>
+</section>
+
 <footer class="footer">
   <div class="container footer-layout">
     <div>
@@ -1565,6 +1603,29 @@ title="전용 채용 사이트가 없어 사람인 검색 결과로 연결됩니
     <div class="copyright">2026-09-30T10:51+09:00 자동 생성</div>
   </div>
 </footer>
+
+<nav class="tabbar" aria-label="앱 탭">
+  <a href="#papers" data-tab="papers">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z M14 3v5h5 M9 13h7 M9 17h7"/></svg>
+    <span>논문</span>
+  </a>
+  <a href="#news" data-tab="news">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z M17 9h3v8a2 2 0 0 1-2 2 M7 9h7 M7 13h7 M7 16h4"/></svg>
+    <span>뉴스</span>
+  </a>
+  <a href="#jobs" data-tab="jobs">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18v11H3z M9 8V5h6v3 M3 13h18"/></svg>
+    <span>채용</span>
+  </a>
+  <a href="https://bdpl250101-collab.github.io/chemeng_study/" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6 M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3 M7.5 15h9"/></svg>
+    <span>화공</span>
+  </a>
+  <a href="#plan" data-tab="plan">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v15H4z M4 10h16 M8 3v4 M16 3v4 M8 14l2 2 4-4"/></svg>
+    <span>계획</span>
+  </a>
+</nav>
 
 <script src="assets/app.js"></script>
 </body>

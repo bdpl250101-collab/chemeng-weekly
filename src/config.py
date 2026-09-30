@@ -323,6 +323,9 @@ LATEST_SNAPSHOT = "data/latest.json"
 OUTPUT_HTML = "docs/index.html"
 TEMPLATE = "templates/dashboard.html.j2"
 
+# 앱 하단 "화공" 탭이 여는 개념 정리 사이트 (티스토리에서 옮긴 chemeng_study 저장소)
+CHEM_SITE_URL = "https://bdpl250101-collab.github.io/chemeng_study/"
+
 # ---------------------------------------------------------------------------
 # 5. Crossref API
 #    mailto 를 넣으면 polite pool 로 처리돼 응답이 안정적이다.
