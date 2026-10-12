@@ -1,0 +1,553 @@
+{
+  "collected_at": "2026-10-12",
+  "lookback_days": 7,
+  "count": 42,
+  "news": [
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "‘에이전틱 AI 고도화’ 포스코DX, 인핸스에 투자",
+      "source": "문화일보",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:55:44+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEay1pT1FjSHRVWGZsVHlhQ29CZXJ5eXJFZFc5dm00WEZSTjItbFAxRFF5aTdPSlhKMVR2Q0VfYkhFdV9ZcVlzdWxoYzZBd1NK?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "“달린 뒤 잘 쉬는 집”… 포스코이앤씨 더샵갤러리, 웰니스 결합 ‘러너스 하우스’ 팝업 - 조선비즈",
+      "source": "Chosunbiz",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmpoenBBcmktZlZnYnFYTFUtbENSY0FWdk1rQnpFakltN01qM3FLR3NvazFnMlhkSWxmeEFnTzV3UUs3T3ZTcU1idTlxUloyQWRSRjJCUmxMQ1lNQkxtTVI3R3U1VGN0ZGcxLVlIUWNiOEV2TVI5OG0tMERWS3RkaG5HUXRMT0IxWlB6S2hxWG96b0FKVU5RTNIBrAFBVV95cUxQTzQ4b29nYmtZN3VwOG5rM3M5T0R6SkZDb01WbngxTkNsV2o4djVfeWVidmlXdENKcl9xeFd2bGs1b3F6Wk9MSDlMRUVsX1hTZmI4TTlnUkg2b0stVW9KZENFdmQ3YTB4ZjhLOUw4YmxOSlJNMG5OYlkzZU5nMThIRVBzNnJvcG1JRlJZaGNhc3ZiOVI4dmRTNjY5ZThwQ1VTT2lsNGFPM1pQUFRT?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "[리포트 브리핑]POSCO홀딩스, '철강으로 지키고 리튬으로 넓힌다' 목표가 470,000원 - 미래에셋증권",
+      "source": "뉴스핌",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:57:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SSWxCQm1sMFVYNjFCWGVxZWlBU1hzTzVPdC1yeE9oMExmbTQwbkxhM0MtRExhanZhN2Fwb2x2Vkk5WV96Q2xDanhzV05FeTVNeXg4Mjk2bndFZFBB?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "美, 한국산 열연강판 상계관세 확정…포스코 3.68%·현대 1.28%",
+      "source": "페로타임즈",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:44:22+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmwySTRQOXJWcU5PYXpuWmxXWHRLLU9iRENWRGJ6aUtfV2pSS01ELU5lRVdaZTBSd01xZXF5bEJQQThWQXNiZk1EaHRBcWN5TjN3b1dZc1FTMHJyV1NWYzNhNVVUT0huTDdlMQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "포스코 노사, 14일 임단협 본교섭 재개…교섭 타결에 주력",
+      "source": "철강금속신문",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T09:07:31+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96eFliRmxIYnJOa09IUWpxZnF3Y2dxbzVWdjVxa1pXNngteThCTHEycWJCTzBpU1FEWExmeUstSy1XdGNRUTU0OFVDTWhPeVhoNXREdGM5YlNENDktQ1hqbUNIdTc3b1pYX3c?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "[GS칼텍스배 프로기전] 한국 우승",
+      "source": "매일경제",
+      "published": "2026-10-11",
+      "published_at": "2026-10-11T17:09:39+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tdnVrcnFnN0RYbDk4OFVnRk9yYldOT3ZaWGx2LTdlTEt1ZkRmUTNxeEoyX3lkZVlRcGxFaTREb3FRcXFyc1E?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "[GS칼텍스배 프로기전] 누가 세계 최고인가",
+      "source": "매일경제",
+      "published": "2026-10-08",
+      "published_at": "2026-10-08T17:13:59+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91WUxyTG9GYU04d3RDdFp4NFJjNzJITTFxeTZsSWp0Zm04dU5SVjJidkZULTM5QWgxZVNNT0NMMVp0aEkya0E?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스, 정유공장부터 사무실까지 AI 확산… 생산·업무 혁신 속도",
+      "source": "비즈트리뷴",
+      "published": "2026-10-08",
+      "published_at": "2026-10-08T16:27:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05a3BtM21pSW0tYmhsc0dvLVRKN01zM01qbXJPNTExVTRYOTlqeVF4LThHVHdXVVQ4NDhVRmVTR0YtR1B4TlV4eUJCQVBjLTdmeVpTTG1MOWgtR1Nma3k5UjRjQXNDMnQ3ekJWN1kwQXI?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스, DAX 본격화...허세홍 부회장 “AI는 새로운 동료”",
+      "source": "이투뉴스",
+      "published": "2026-10-08",
+      "published_at": "2026-10-08T16:22:59+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVzF1TjVaX1g5bTVaYW1Uc0E4ZDItM3E4cFZsLV83d1BxUHJyR3kySDRueF9WV1UzWi1oQ2hFaDJ2a0RsQzhSZll4WnVQdjZDNkFvRFZURnhLMEVYcHBiRU55VUMzd2fSAWtBVV95cUxNbElTNU1hbkVLUDd1dVIzYVFmNWVFMV9ZTFFSdXRRZ21BY0o4Wm82WE0tSjRzNUtZRTJvaWdkZ0Vlbm51bTh4VTZQa2V3a19uaFRUY3FjV3hEaUNsemFZUlUtdlVMQ2lyWTFnSQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스, 정유업에 AI 심는다…'허세홍 부회장' 주도 DAX 가속",
+      "source": "블로터",
+      "published": "2026-10-08",
+      "published_at": "2026-10-08T16:19:27+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVHAzejB0eWU1YmhDUXhTWnk5dzFJcXYyVF9PWWhFM3RMZTBwcU5WbUtIYlgtVS15ZVFEbEtNTW1ReHdzMEYybUNzOXBNVjVLRlpzLWhuNTBBbGhQZTNnNkM1aWtjWklG0gFsQVVfeXFMTW9YdWJsWjJGQ0N4OTMyQ2owRDZUdmQxV0FFQ1FFRV9Oc1loaUg5VnRCWnUxeUVpMTBPNWhuV0ZxX21DSU1RaDZWY3lGQVVhT3hlVlpsdEVvS3g1NlNNZVB2M1kwLWtQUm15UHZG?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI 3분기 2391억 흑자…정산이익 1500억 포함",
+      "source": "자본시장뉴스",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T12:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwUzdjTGdvQ3BENFRQLUozeEc2eDZPVXhqcFd3LWY0ZjZieDBGMkZYNnpRYlFqM0VGZHVNcC1QeWdtSWNHamJpeVZHdEkxV2dBTzRQcTFvLXd3aHU5TDhTenFBbXRDY2c?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "ESS 성장에 LG엔솔은 3분기 호실적…삼성SDI·SK온 성적표는?",
+      "source": "더팩트",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:26:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ocnhTOE5GaHVDN0E2ZnUydkhQSzZqRWlKMG5IVjJHZV9KUWNjX1RoSll5UVNoY2xydDEtSTN1VVJRQVRuWHJCckRLdWxvd1JqSDVPb9IBVEFVX3lxTE5ocnhTOE5GaHVDN0E2ZnUydkhQSzZqRWlKMG5IVjJHZV9KUWNjX1RoSll5UVNoY2xydDEtSTN1VVJRQVRuWHJCckRLdWxvd1JqSDVPbw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, 전고체 배터리 2027년 양산 추진…휴머노이드 첫 적용 가능성",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-11",
+      "published_at": "2026-10-11T12:26:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlNCSHJvdkxtR0NMVWJpeldjTlY2eUFfdEtmemhuaE11NldyZ3E5RVRnaUZGb2p1YkJadmxKampmWlFMU2FmcXBsaTdDZXEwSGxXNURwNlZMeGxZQ3JnaXNudnZ2b05jT3A1bS1Xdi15Wkg1aE11V3k4UDY1U2VkNjlOdTlBdDlI?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "증권가, 삼성SDI 3Q 실적 호조 예상…\"일회성 요인 반영\"",
+      "source": "연합인포맥스",
+      "published": "2026-10-11",
+      "published_at": "2026-10-11T10:37:16+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRmxiWi1tV1V6My1zOXpoZEhJUmxNb2g4SF9wUHdrUmNaSmQtWUtvYW1RNGtEMVliSUR0Qlk3RHp5UjVUNzBPSWxZQVZWbXhsVVNYTml5ZkgwYXR0YVM2QlpGX1hXQXVYS2pYY29jbUo?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "\"배터리 교환망 타고 2035년 급성장\"… LG엔솔·삼성SDI, '전기 이륜차' 영토 확장",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-10",
+      "published_at": "2026-10-10T09:34:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVlTMWFpTXhkcGtpVFhQcGxFalVlZ0NSUXcteW8yLW5UUVQ3dVlJQWxqN1ozRWRvU1poZHAwUHN1Y0NlUnkzcGxlMW9qaktDQkZjelhVRmJna3IzTkRVVFljcFpjNW9ZN2ZYOWZ6cW83ZWZ5dWVuMnFBV1p0WWFKbnpsNzJveS1x?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "[단독] ‘주 60시간’ 삼성전자 연구직 또 ‘과로사 산재’…메가특구 노동특례 우려 커져",
+      "source": "한겨레",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:17:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90QXF5SnFuWklLYnZBLUFWbjFleXdtaWRaZWlucklpU3Z6d0ViNkJ2T2VaZlRpOEtVZ2JCZF9hQ19zQjA4Tm9OUTRId283SGVYQk1hVm14SDY5Tm5GZlJMTWVXcEU?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, 차세대 'z낸드' 개발영역 넓힌다…맞춤형 AI 메모리 전략",
+      "source": "지디넷코리아",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:45:52+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSUFQb0hhYjNpb3Q0cjRkRFBuZ253Zlp3UzdROWNkZzROeVh5S2Fsd3lOWnprMjU5TUh3VkY4LXZ6Qy1jT29lYnd4Y2R0Y29ldEZOVlNB?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "EU 심사 1단계 만에 '프리패스'…삼성전자 하만, 독일 ZF ADAS 사업 결합 정식 승인",
+      "source": "더구루",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:33:48+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xQUlVSUYtVHllNjQtbGxkS1R0RWxtTGx6R3lUSzE3UDk3Q2I2d1BWQ3RFbW5MWFNMQTFnWWpBWjRab1duQzdJZ1pVM24xUXM2bWlOTHhZeGVkdEE4WTZJSmdVQQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, 청년SW·AI아카데미 역대 최대규모 모집…AI교육 강화",
+      "source": "연합뉴스",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T10:15:54+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXNnh5VkJaN09QZEhhdmhsS3hkSHUtUXZkUDRvRm5zYXl0akRzTXlqRUFYT0NuU0lnaUxHZDVBallyUTRjWnR3VHVlMEN0U3pjWTU5UzQyTFpWWEFOVzV1aNIBYEFVX3lxTFBXNnh5VkJaN09QZEhhdmhsS3hkSHUtUXZkUDRvRm5zYXl0akRzTXlqRUFYT0NuU0lnaUxHZDVBallyUTRjWnR3VHVlMEN0U3pjWTU5UzQyTFpWWEFOVzV1aA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자 냉장고·이동스크린, 올해 포브스 '스마트홈 어워드' 선정",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T08:54:13+09:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVm5aTGdMWUJqZzh6T1hucUVwV0w3VklHcVV2ZUwxdk4wNV9WbHBMUHQ3YjFERl9LOTFfUnR6NE4yVGZ1M2ZaZG81QlI2ZGplRzdCSGpRbDZFNUVFem5TUExHME9PN2lsaENQNG5lcmRCazFvVkJJV3V0R1R2RFo4bmcxWmdIUQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "조선내화, 포스코에 내화물 630억원 공급",
+      "source": "비건뉴스",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T06:27:37+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83REprTFg0WkRoWWFtNVVrcVNlNWV5VVVLb0sxQ2phMGVnbVZ1c0U2X1F3SDNreVR1a3ZqVWdwY21FdDZ6Tm4tR1JyQzhZNTlIbFJEaF9idDhjVDlrZEx2WGlDTnBUdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "[공시 Pick] 조선내화, 포스코와 약 630억원 공급계약에 강세",
+      "source": "뉴스투데이",
+      "published": "2026-10-06",
+      "published_at": "2026-10-06T15:25:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQY0g4RG1uM3NSbzYtaF9aZElSdHd6NF9OdTY3aE1uQ0ZQV2x1TGczTENIeXEweEZ2ZmJpbUFpV2M5NDJmMG0wWWFNYklrZ3gzYkJyT1JKUUVqUXREeWc?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "조선내화, 351억원 규모 공급계약 체결… 매출의 6.6%",
+      "source": "CEO경제신문",
+      "published": "2026-10-06",
+      "published_at": "2026-10-06T13:10:24+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NVGZQNnJrN0JHZTNBR082dE9tWHVIZEVFcXZLUlNwVThBRVZ6bGVoTzBfdFdPckhDc1ZNdzJpS21oN0pDVGl4c09DSlpVM0hmWldkM3Bwb0xwUHZVMnUxNW15Wlp2NFVjdHg4ag?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "조선내화, 포스코와 278억6201만원 규모 내화물 공급계약 체결",
+      "source": "디지털투데이",
+      "published": "2026-10-06",
+      "published_at": "2026-10-06T12:50:01+09:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NZ0g2YVI5bk53WjJBNVZ0eGJqS0dzUFVnYXJpRTFOWEQ0aWVJblQ2b2ZWbW5GU3l3aWZ4RjA2QXVpYnMzckNkVmo3MllmTXU4ZUktSlRTSXZ1cm9BWktIMDJQRW5LRVlCRzI2NUFsVGVJZmRZWE9mUzJIUQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "2차전지 소재 기대에도 비철금속주 약세…실적 확인이 관건",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:02:17+09:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EMW1mV1dmaWJtT3gxM3lVb3d4cE0tZkF4dzJlQkI3a01GMkZPeHRScFYyMU1PSjljaDJJUzVQeXM0d2VHcXF4TEdFVUI0NjROQWlJbk50bDFzRDNuS1dtTDRsR3puVml2RmRSb29wMWJWQl93Zk1R0gF3QVVfeXFMTUQxbWZXV2ZpYm1PeDEzeVVvd3hwTS1mQXh3MmVCQjdrTUYyRk94dFJwVjIxTU9KOWNoMklTNVB5czR3ZUdxcXhMR0VVQjQ2NE5BaUluTnRsMXNEM25LV21MNGxHem5WaXZGZFJvb3AxYlZCX3dmTVE?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "linde_korea"
+      ],
+      "title": "린데코리아, 대한민국 컴플라이언스 어워즈 ‘민간부문 중견기업 대상’ 수상",
+      "source": "온라인가스저널",
+      "published": "2026-10-08",
+      "published_at": "2026-10-08T17:55:51+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43czlMLXBRWWZQZkQ5clZWUl9vZXlydWlqeGcybll1SnI0ZUwxQ0taQllYWjNGOWcxb0IzczE0LXg4aXk4RUZqZ2NsWEExOEU2S05UeFlVX25Yd3B4b0R0eDdhRkRsZkJG?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "linde_korea"
+      ],
+      "title": "평택시, 반도체 배후산단에 하수처리수 공급…관로공사 착공",
+      "source": "매일경제 마켓",
+      "published": "2026-10-09",
+      "published_at": "2026-10-09T09:09:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSSUpFZzlfMF93bkpDcnNaLTRGNDJWN0lNRDRrd3p1NE8tbFQ3WkRHa3ZNOTBlX0V1QkM4OU5KX1Q5ZUhBWVMyWlBNNkdHM005ZFE?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "OCI홀딩스 미국발 호재에도 현지 태양광 셀 생산에 '신중', 이우현 동남아 폴리실리콘에 역량 집중",
+      "source": "비즈니스포스트",
+      "published": "2026-10-11",
+      "published_at": "2026-10-11T06:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aT2hkWHJJeDlHSG1WM3ZuSDFKOVpYUENaNm52cUY0S0J5YzVmdTYyaXltak5xbHJIX00weHlkZXFGSVAxRXpOS1RyU09lODlNenVWTmZmNmszXzhmMjVYSWdGNDc1QkdoVlgtdVAyS0lfYkE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "OCI홀딩스, MIP 규제 발효 수혜…중국 리스크 해소 : 네이버 블로그",
+      "source": "블로그",
+      "published": "2026-10-09",
+      "published_at": "2026-10-09T05:31:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lRTJkRFN3bmxwN2FQNmsxZGVIQW1kQkdzaDN3VmJqOVZKaEhsdUliQmJDTjdoNjdMek8wQVVVelJodzdvVlRUSV9kY1NCUjYwMlp6VEFoRElkc3A4al9Ob01hZUxWdGFlUS1qVmQtSDd4eWpnS1VZUTJSREhPclU?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "OCI홀딩스, MIP 규제 발효 수혜…중국 리스크 해소",
+      "source": "딜사이트",
+      "published": "2026-10-07",
+      "published_at": "2026-10-07T12:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ENWV5bi1WTTJBZ01BVmVMOWlod0VCTU01SWI5TXlNS3dvQWhkSVBwS0ZUaE1DbHFOLWE2VDI1Sm52SEZBTkQ3VHBMZ1o5MG8?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "국민연금공단, OCI홀딩스 주식 12만5862주 ↓…지분율 12.58%",
+      "source": "데이터투자",
+      "published": "2026-10-06",
+      "published_at": "2026-10-06T13:51:19+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iRWc3T1RlVEVONEtfRUxwakhEWGZSaS1NYTdoS0NZTl9COTktLWJkd19lZjFhWjBvd0pzNTlDQWNLZDBndzRpYmFmNHM4a0VEalViNTY4cjhrMkszVlU4c2VUVHZkVzV4MXczelIzaW4xT00?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "[10월12일자] 비즈니스포스트 아침의 주요기사",
+      "source": "비즈니스포스트",
+      "published": "2026-10-11",
+      "published_at": "2026-10-11T17:02:01+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBbWQ1bWpPclNFckdVZGZqVVJ5eVVvbUZyb2xQRmRMeFl2WG80T1I0cU9OLUpfQlc0bmxuUFBkSElxWGxWODduRnYtc3NQMkkyRkJreC1KTkpMQkpYY2gwQmpjNnd3c0dLeEx1MGpvNHE0Ums?oc=5",
+      "summary": "",
+      "title_match": false,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "[데스크]테슬라에 안방 내준 현대차…믿음의 경영이 부른 ’외통수’ By 알파경제 alphabiz",
+      "source": "Investing.com 한국어",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T09:48:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTExYNWNjTVpqWDBNMGxrTUFLbFRLX0dYSkpkeDJWZUFVdFBPaFFOMERtOXVJUVZhal9GUmJJRVpzbmJiZzgxUHJPSWdqR25JLUhoUEx6RUg0RHp1N3NkWmtjS3daSmEyWjlxb3FzRmM?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "'취임 6년' 정의선 현대차그룹, 빅3 넘어 스마트 모빌리티 선두주자로",
+      "source": "지디넷코리아",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T09:26:44+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbVlYV0NtTkE0NDhFLVoxQjhoM1E3NDl5SFAzd3hHMlBISUtkdWVHbXRZenRaTWYzdGd5bG5KZmtxTk5SaGpZdmFYNkNaRnpWcjAySHJn?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차증권, 현대차 목표가 하향…\"파업에 실적 부진\"",
+      "source": "연합뉴스TV",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T09:21:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jeHVYMGpKSmlETlFTSnpMei1BOGZHaG9xVDJ6T0p4X3FfTzBnTlVUdDRMUDNVNS0wdFFGdDhkSFFqNGlUcFpTVzNPYkpuR2o1Si1vUmQ1TEc0akxYbnNUbmljMU9XMUE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차 파업 생산 차질, 로봇 가치 '불확실'…신한證 \"목표가 19% 하향\"",
+      "source": "뉴스1",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T09:06:18+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdTkxM2VHS1ZmV09DOHA5c001YVRQOUM4SGtwdEMwbTVLNDhpejMwbnVBOWZOVGQ0WEFTSWs0TzdIM09SblpiV0tVcXczYUxNUzRzeHJaa1hIZmkwTXFz?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "\"현대차, 환율급락 리스크…목표가 41만\"-유안타 - 머니투데이",
+      "source": "머니투데이",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T08:53:32+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aZnlzRTZMak9aZlllYU5ZZ293S2NsQ2RRWXhucmQ3NWxhZ2t2TGl3SkdlQzRSVFV5OHZZbGdqWGZJZHNSYU5lc1pHb09BS1lENlpCZUJSUFYzaFRPN1BfOUNSYzRxNkJZbEhLUjNn0gFuQVVfeXFMTVpmeXNFNkxqT1pmWWVhTllnb3dLY2xDZFFZeG5yZDc1bGFna3ZMaXdKR2VDNFJUVXk4dllsZ2pYZklkc1JhTmVzWkdvT0FLWUQ2WkJlQlJQVjNoVE83UF85Q1JjNHE2QllsSEtSM2c?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "[리포트 브리핑]SK하이닉스, '환율을 이기는 호실적 예상' 목표가 4,000,000원 - SK증권",
+      "source": "뉴스핌",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T12:23:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SekplbWpfZmh0ZEd6ZWZGd25MMmJUc1FyblR1U09sV1R0WlRPTnRPTGNLMk5WQm12OVBiYU1TSDgzdlVaSVRDcEUyV0NXMU1YeEJJWnVVbUk4NUg0?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "삼바 6위·SK바이오팜 7위·한미 9위…K바이오 빅딜 존재감",
+      "source": "약사공론",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T12:00:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zLXpVMEJrY3RaRlhEenpEeFVpVFJ0ZkxwbU5uQU4yZ0VReHFITE9VQ0JNTHpvbTE5TVkxRkNxMTVDZ0FFbVFoQVE5QXFuUnJhYnV6bU54YTBKNG9QSjFIMV80RVdtU1dMVXo4ZA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "“AI, 교실 대신 현장”… SK, 비학위 2년제 교육프로그램 신설",
+      "source": "문화일보",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:56:05+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82dEh2WE8xTmFaZGhIUWpjTzBkcXhrb0Y0V1RzdlpaM291RFV3MmlfYVZJbThKZWxway10c3Bpd1V0X0ZleXRoRWtqYktKUlBq?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK, 2년제 AI 청년 인재 육성 프로그램 신설",
+      "source": "조선일보",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:51:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbEZzMzJtclhZZDJyUzhCWVdzaUQxeVFGQWZubkxXNnByUFE5ZWFaWDlpLW9zVzdvYmpuWlFxcWFJTWxMMnFzRnhwR21WMVprSFgzanZnX3huRnZ2WVB0cm83bW9FSUJNVXptSkRsaUVFMHR5eU5VLUR2QkFBMUFsYWNwYmc5dEI1bVUzdmc0RQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK 최태원 광주 방문에 ‘긁힌’ 국힘…“오르막 있으면 내리막 있다”",
+      "source": "한겨레",
+      "published": "2026-10-12",
+      "published_at": "2026-10-12T11:27:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rWllnT245bnBVQVVUcmdPSW1ZWlBpWUR5Rjd1dXBzaHVGdmhiOE1WWXdTWElxc1JVRXV6VXpZVzctUzNqU3RaOG1VUGdLMXVtTWJ0SmRrN2ZGVTl6MHBHY0ZsTlktZUJlNGc?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    }
+  ]
+}
