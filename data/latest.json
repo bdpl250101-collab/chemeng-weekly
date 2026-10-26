@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T09:53+09:00",
-  "week": "2026-W43",
+  "generated_at": "2026-10-26T10:00+09:00",
+  "week": "2026-W44",
   "lookback_days": 7,
   "topic_totals": {
     "electrocatalysis": 32,
@@ -274,7 +274,7 @@
     }
   ],
   "deadline_soon_days": 7,
-  "today": "2026-10-25",
+  "today": "2026-10-26",
   "papers": [
     {
       "topics": [
