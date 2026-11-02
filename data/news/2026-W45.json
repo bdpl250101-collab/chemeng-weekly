@@ -1,0 +1,514 @@
+{
+  "collected_at": "2026-11-02",
+  "lookback_days": 7,
+  "count": 39,
+  "news": [
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "포스코DX, 3분기 영업이익 169억원…전년比 22% 감소",
+      "source": "Chosunbiz",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T13:13:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXIzTTFTdmRmNlB2QzgxSFRXNDRBcEFBcG5NVnhIbTBTSnE2dmFDOG41bU5QY0xvazhvMTZjTVhhNmdpM1RMNXhxR2NOTTZxbmZEMGkyWDBKbDQtVFcwWUZRU3I5ZUNjVEJSWXQ4VUJBRGVwNGZDcmZXM2E3cF8tNy130gGWAUFVX3lxTE4yVnFVaE5UYlIwNjA0N1hTaXJhSmFqLS1HTFVxNkpwVUUtSjV3QjBmQVdfY2pHNFU0YjJHaUpjbG12NF81NWJTUlplMlhacWhUbTd3QUdvenNnRmg1dGtJVGVNa2dYTzVOR0ttMFJ3R1ZaZTR4WGRYZkdsZzRocDBfV2hjWWI1YlM3RVdLaU01aE45S3FuZw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "[2보] 포스코DX, 3분기 영업익 22% 감소…AI·자동화 사업으로 반등 모색",
+      "source": "지디넷코리아",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:54:34+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwdGhIenh4TmRlUy10eDByVWdRdXBXVGVqRE40TjBSS0NjN0FONXBocnZaYUdLeUxpMjlmSGQzdlQwTk1ET3piUEdOXzMxTVV1dVM5Ujhn?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "포스코퓨처엠, 3Q 매출 8348억·영업익 821억…배터리소재 회복세 - 머니투데이",
+      "source": "머니투데이",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:39:06+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHVHpIeE9XenAyYlVjQTllaXdSb1BQcVZTRFBNS2M2RXJyMEZlZGFxZzk5b2VRQXJFdGtuaVVyeEZiR3hTZVR1Rld6OHlwS2tWNHU4bTZsbGUxeWpwRjdPWE9oMnVlQUhfOHRvNdIBckFVX3lxTE1ySGMxVWpLc013RkJXMWVpUHdzTU04cVBSLXE2bV9Qbm1PV2VaRlhHMWpzQkFxb1BQNlRGR1NULXNmdF9oNG5EaGZzOGJYdktuNmN4RlQtbl92RWV0bG9GLVRQRExGQTRkZTFWbEVRMTdWZw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "포스코인터내셔널, 3분기 영업익 4007억원… 전년比 24% 증가",
+      "source": "Chosunbiz",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:37:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktiVnYtaklkOHJxMl9UUXJmdW9QZndmcVhiNUhURkwwbF90eXpoSmVyQmZldlJTVEtQaVFIanBsV3lfb2tfZldJbURnR1JOODZwTXkwY05sUGtHWVRPclAxd3JoR1RINlJGaTRTWHdQcldTTHlPRmV0MElBUVNCS29ZZHLSAZgBQVVfeXFMUFQ3aEFvTEFwa0did0xxWksxN0tWRHVrRVJjU1pFVExUZHJFTmhLZkpxa0hwNGVGTGlkZjRUN21MVFBJMk5kUF9aeHI2cXh6SF9Beks4eUxVZWlfYWp6UUdXb1pXMXlhaUgtWWowNlI4a283Y19WcWl1c05maEdLeUNySXZMUWtEYnpaRkxIZW1rOWNONC1oS0Q?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "posco"
+      ],
+      "title": "포스코퓨처엠, 3Q '깜짝 실적'…배터리·양극재 견인(종합)",
+      "source": "연합인포맥스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:32:20+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14RW9YUUd6WnZrR1h3WnUzMmNjWTAzOHptTzY3SXgxUVd0c0s4SGNXYWk5dVZlUWpvSXJFN1hCMUl4SkhiQkhEeW4tRURLSjQzd0xiUEtma2xxQmZlQWViVGdkSkVUWVk4S19PV2hYdDI?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스 '킥스 프라임', 한국품질만족지수 고급휘발유 부문 1위",
+      "source": "서울파이낸스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:50:13+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WYURET3ZYNVVrVTdHSVFqVWpmQ2ItX3dJOU1BWUhqem1QMm5RTFphN29qUll0aGJNUDFpamVKam1KOFlzTS1IN0ZhLWdJVGYyUkdEcjZkOEFMX0c2RzliRkd1bmxqckJVbkE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스, 한국품질만족지수 고급휘발유 부문 2년 연속 1위",
+      "source": "브릿지경제",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:01:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vcnA0TVo5a05zQVNpN2F5a3IwOHRXb0YyVDFXbWpnaktETUNPc29PS084bDJLdk0zMGVVZlB0WDlnbnA1ZnRpXzVuSDVmVURHTkJ6dUtqZ2FSdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스재단, 시민 '의인' 헌신 · 선행 재조명",
+      "source": "투데이에너지",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:27:26+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjdIWG53bDluWllfYjZXdDVLX3Y0ZGdnTTRwMDVyT1E0Y3ZJUkl0MzFPdDVGelNLdkpmeU1kYVk0bjhaUWd2Sk1GSmlMemRkMlNiQWpYVkRSM2xreGowQ0xNRWpfbkVoMjdkY1hn?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "GS칼텍스 '킥스 프라임', 고급휘발유 품질 2년 연속 1위…기술력 입증",
+      "source": "https://www.moneystorm.kr/",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:26:59+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84d2JIZE9uWU55c3hwYmFzN29YaDNCZ201YW4zenU4aHNlNFpZcElOLUlnLVVESi1mOWUtNVp1SVdFSEJXeTZsWkZXX0RYZGxpUDl0aGlOV0hYbVF3cnk4N2NZaWxNaGZXT2c?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "gscaltex"
+      ],
+      "title": "“GS칼텍스, 품질 혁신·고객 만족 노력 다시 한번 인정 받았다”",
+      "source": "에너지데일리",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:08:16+09:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kYV9oWXA1NVYxdDBsQWpoT3k2VUkxNmoxTEZNYTJvUHpFMlQ4SkVDeVlYM2FVYmx3UUFNdkYzUVJEZDIwR3lEM3d3Tmo4LUtiY1FoOGdxSFRGYmxaTmtrVkJuMGJPQ1VmTFZzVDFqYktzZw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI 공장 있는 괴드, 지방사업세 2% 환원 요구 재등장…지역 재원 확보 구상",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-01",
+      "published_at": "2026-11-01T07:49:30+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDduWEJYNzhsQXlpLUw1a1F5bjRfSXY0SVpBTzlsb1k4NTYxb2RpZ3BYLW1IMVdqS19PQWkxdE5VaXdELUlNR001VnpxNnRiM05IbVJCS1BMamNKUEEtcElqdXRGY3plR3BsNlJ3a0ItaUxuQzFvVUJBVlhyQTQ2WTlEc0gyVDEx?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "[리포트 브리핑]삼성SDI, '더블, 더블, 더블. 중국 점유율을 가져오기 시작' 목표가 1,000,000원 - 미래에셋증권",
+      "source": "뉴스핌",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T17:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWG1CTTRTYkdfaVJuczAyUld4dWJfbWdPZlhnYWJuUHpJdGhEekJYU2h5amYweFJZU3FLMUlrUzdmemN0V3VJbFZJcWpHZjhFZ3ozRTNDOVRETEkw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "\"LG엔솔은 소프트웨어 수익 노리나?\"…삼성SDI 직원의 질문 - 머니투데이",
+      "source": "머니투데이",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T16:30:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14ZWpnejFSZTdTeE1QQmttakVNMVdwaW4zOWY1Ry1rZTBaLWxzN3R5TVZtZXRsYUxFUnRSNmotME9tZ1hzRHdTWWllUEJjTHBtcVkzTDdKQ1RWeUFDaVl0UTBkSXlKWEdTamFGVtIBckFVX3lxTE5iWFYyZU41YlFDRjVzejRqLTJrR1dvc0I3c0NmVTVPNXowOXNCczNjbXM3bWxxQUhWemxuV3pPUHBXcWlaa2o4SmpVdHlvWE5zTXFQdUp6cnVvVEthMmJBdThrc2xsd25pcWF0R0xzd18wdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "\"AI 데이터센터 전력 문제는 배터리로 해결\"…삼성SDI의 세 가지 해법 - 머니투데이",
+      "source": "머니투데이",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T15:16:10+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocHZvQ25IcXc0eENET19rWHBGdm9wM1AzMEpZbGpVV1NMR3B1Z3VOVmZabHphNXpNX2xDOWlQSjY3VnY1QXZzWjFQWDZPZDdvVnJValpzSmJRTTJaNV9LYXlkeGpjQjdObUdqMNIBckFVX3lxTE50QVdVV0Y1WEZ2NlB0NC1kejNHMFhtalV3bmlOUUZUcGY1bUVjdjAtR1hNdTVzeFZCa3pzWUwxVlc5blJHX2dBYmFYeFVFbFBTcUxDdm42eHppdTFDRTh0YjRobEhwWEZTVDJKYTlPX2pMdw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_sdi"
+      ],
+      "title": "삼성SDI, 판 커지는 휴머노이드·우주항공 시장 정조준",
+      "source": "뉴데일리",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T11:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCemFmQkUzS05ZZ25MNnN4dm1WR3E1alNCa2J4ZFQtbUdZNWNtUThhTTQ2UDd1WW1YcHpvUGZhWXFsTjI5aE9IR1dDTENVZGxoM0FGMG0yQWZOTGpUSDJ4UkN0U3BCUFFPMndLNE0yelNvSGxSNDNsSXc5QdIBgAFBVV95cUxPTlVEbGhBdXJHcFp2ZV80UlJZM3RhQWxuZHpUMWxYVmFmWEM5V1l5SldwS3ZqYkZ1R1lQU1lnWFJDRFdMUTBvRnEzVUZUTGlJbWxOUlRCdDlUVTZTamtYal9iZGhJaVB3YWhVSlNFMzhESmpJSWFyMnBXNWk5ZDRQZQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자·테슬라, 美 정부에 \"베트남 관세 시 부품·스마트폰 공급망 차질 우려\" 전달",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T13:21:48+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWNSbmJxX3did3hjYVNlXzdDTlNsanlTTktKd0R4OHk3UlBTSW84ZGNkZ1FnaVRnNGZsd3VsYlFfQnplVWJyZTlwNERsSlhtZFBBY0JEOEM1Z1RkRXVlYTFpdGlNZm9nZVFSaFcwMjhrRmNsSVM0b1BKYTc1YkhuQUN4cDlPOUU4?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, ’2026 다카르 청소년올림픽’ 공식 후원…\"미래 세대 응원\" By EBN",
+      "source": "Investing.com 한국어",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:40:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93SThSZ09FSVBaeW5zaDBKS0tkR1pLMmNSMHBlWlRhTTd2YVNCSUFwY0FWS05qblJkb0ZWVHVpQjNGVzNGSXNiaVB5RGJOX0hYQW5QR1RLRXdidGEwQm1GSFBXNmNiYVZ2U25SWV9fcVY?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "삼성전자, 글로벌 스마트폰 시장 침체에도 3Q 출하량 1위 By EBN",
+      "source": "Investing.com 한국어",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:40:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVkN2WEx5NHhmZC01MVdTdTZDYk15Mmx0SVR0bUhwaTh6enc0aEdBbzZtQWx1SGRPTzI0LTdaSUdyNEk1OGlkb3FDVE5tYVhwNm5oMW5MRVB0MkhlYzUtbDZxQ2JhSk04S25LR1g1eUI?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "김우창 靑 AI정책비서관 퇴직…후임에 이지수 前 삼성전자 상무",
+      "source": "연합뉴스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:35:57+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aHNJMlVmTWJETmZMcmx3SEd2QXpoRDRwcFl5eUpBdHQ4V0lIalR1QlFNT0FZbG1QZ2ZMcFU4LWs0OVRNbHp2VXRiRzVxZ3NvSXVuRkxZVC1MUFHSAWBBVV95cUxQbHdxejBPUlprZXZOV0wwOVV4aEhSTXJZdy12TkZacjBpR2JSUDJ4dTRzajVZSlZaNXItWE5tOVRXQjhHeHQ1UTA0cXp4MjM3QnpHOWROWHhBaXFzelMxTlE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "samsung_elec"
+      ],
+      "title": "평택시·삼성전자, 반도체 방류수 미량오염물질 관리 ‘맞손’",
+      "source": "아시아경제",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:34:09+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WYk9VTzNMNmctODg4ZGhIY2oxTjBkeEljNmFBTmlfNEUwOEptVTlNLUhvUlRVTUxRWHNaazRMSUo2d293ZnkyZE5BVnBZZmNxUUNIdkprOHBzcTk4R3FJaQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "목포 조선내화공장 오는 2029년까지 복합문화공간으로 탈바꿈",
+      "source": "KBC광주방송",
+      "published": "2026-10-28",
+      "published_at": "2026-10-28T21:17:09+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56emNabzZqcXpvX1F1dm9LOEp2N3JjeXd0eGxRaGRjbEpLWTZTLUtaQzJTdFF0UTJ6MXNWWmdqZG14SDBmWm5scE44WGdsTUwxRmF6dEVGZ1czcG5Qek0zZEdQeGx2aWc?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "목포 옛 조선내화 부지, 체류형 복합문화공간 대변신",
+      "source": "남도일보",
+      "published": "2026-10-28",
+      "published_at": "2026-10-28T16:42:54+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Y2o2bDM2d1NKV25xQ1ZTeVNyREZmN1lKTzRNSFkwRC1rNnRJWmg2ZGNPVDFwY2hKdWFuTHVQTWU1THhLMVBmTVRjRW1QUmpYbmo2V1A3dHNTOVo2OGRTRzZ6UVdISGNfQ09TWdIBcEFVX3lxTE5NekdGQVRLVzJwcWstWjBIU0JSanA2YVpRSS1JVXZoZHNBTnlqX2w2WW9Ka18wdVNtWjJuTWc4eGRvR094NU5ReU12dHZEN1VmdXlJV1FvWDdaWkFjUkpxcWUwYWZEZjhyOG5sMkd1ZGg?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "조선내화 옛 목포공장, 복합문화공간 조성사업 탄력",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-28",
+      "published_at": "2026-10-28T10:28:45+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZldVV1Y3NEZnVnI1TVZsUU5kbEtETEh0eF9OTW45dGR4WFpULTVYTGJTUzlHaEZkZDNPem1WYlFJRmdCT1lVYlRucTE5ampJTGUyOG9qbFo5QQ?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "chosun_refractories"
+      ],
+      "title": "목포시·조선내화 700억 원 민간투자 본계약… 옛 공장 복합문화공간 조성",
+      "source": "뉴스클레임",
+      "published": "2026-10-28",
+      "published_at": "2026-10-28T08:02:56+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NVlsM25tVDJDcml1SWs2NmtTUGwySUh6RlRDdTU5eDh4OUxlblA4YmpoMERwbndXRDEwZ3BLNjFpSGlNLXh2RldvelhjOWhQUklXSGl4S1hVNG9OWDlTRjJkSDYyNzFBSkptMkZ5aTPSAXRBVV95cUxONlBCOFhYdkR3SDNXN29Ya2J6VWE1RE5BZmxmYzBNdWxrSkV4cXFwd3Q5Qml2TlY3REYzb1ZMUC1sWlNsUHphS1c3WGdCSUh1OGlia0FucEREMmhyUEtjM3VMamtTelFBUmxvQWY5d0VNNW16ZA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "[인사] OCI홀딩스",
+      "source": "팝콘뉴스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T12:12:23+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KU2FuamdJNUhGMUMwMy1pZVFUWHMwWnIwQUVZWXVPeTROVy1jMENITTFUcll4ZHZDRklhSU05Y0dHVWdiVlZ5SkZ4cnhrRXNseGdqeDRsWU5qRnZqajBjREszc2lLdTJDWU81bUtn0gFyQVVfeXFMTmRpRnpWWE54MlBLMWlFZnBpaEJvVjA3eVdkUU42VElTYV8ybkVrcUJ5YTNyTENzckRURkJHakk3QkRlMkZjOXZTTVZYemkzdFAzWXpjTDY5RXlhbUJCZnpYTV9vT1JyMno3RC0tVWdaTUVn?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "신재생에너지 관련주 들썩…OCI홀딩스 8%대 급등, 한화솔루션·HD현대에너지솔루션 상승",
+      "source": "CBC뉴스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:53:34+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KYzZLQUVtNndlZmd0WFJNenlZMWp0bk8zQW1GUDg4R21kRUthY0pvNjBsdEt4dmJBOUNXdW1IRkYwYmYzQmxLTnZkLW9SRld2ajktdlBHRi1acU00cV9SM1VvbHNDbF9X?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "OCI홀딩스, 3분기 영업익 680억원... 증권가 “美무역확장법 232조 변수\"",
+      "source": "비즈트리뷴",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:15:28+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVHFzTmhCSWxtejUzTFBwdUIwM2NLR1hUcUl1TUgtdm1kVTJMUTlrajUxTWk4ZXRCTjc5Q0JCbzZremRQQVBCRW1jc3ptN2VmalRINUFTeDJudUU1M3dhUnBFdmJxekFZTE5EZmg1SXY?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "OCI홀딩스, 태양광은 웃고 화학은 주춤…사업별 희비 엇갈려",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-31",
+      "published_at": "2026-10-31T07:55:07+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NWFQVG1nXzVrdWxoTXhuNTctMTZmTmhxbTBNY0FnRkh0QkVFbFZQZEtIR1RZd3hpaHBWUldQR1IwOUhzSkpBUmdTSzg1ejg5ZWd1cElOWDdOSm9DeXpvZ2dHUmhDQU1BbUJfSmV0WVVDSTTSAXdBVV95cUxPTjBHSm55OFhkT1NpV0FtdEFQNDdEWk51R09UN3lURUlEdmhnX0dmLTVWR24ySGg2Wko2OWYzSmhCblJuUzNSZTU1Q2xNWkE1ejlyeTFHckRFeEFacWlweER5WG1kVzJBc2ttaUh0d1A2Qlc5bW93NA?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "oci"
+      ],
+      "title": "[리포트 브리핑]OCI홀딩스, '판가 상승은 이제 시작' 목표가 400,000원 - 미래에셋증권",
+      "source": "뉴스핌",
+      "published": "2026-10-30",
+      "published_at": "2026-10-30T17:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IdldZZlY3QU5zSXlUX1RLaVBqcmZ6dDdjUGcwb0laQ1ljRGV6NXNpQWsxVnd2LWhtMnZvYTFGRGdQMXVUT1hQTHFiS0FIVUhCdEp2T0ZNblliaGpm?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 인증중고차 ’과거 이력’까지 공개…운전습관·정비 기록 추가 By EBN",
+      "source": "Investing.com 한국어",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:40:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SbEFPd2ppRF9XeHVqN3VLRC1vOHQ4eEJBTVJsb3c2bGRvT2NHSmQzNXNhWjJCQ293b1ozaGRSckk1b0pfUkpxUC13ZzZVQk1WQzJhM0FYTUEtOHBXbm4xdHVSaEVGSU1vRnhoNU0zaXg?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 인증중고차 과거 운행 데이터·점검 이력 등 공개 |",
+      "source": "연합인포맥스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:20:19+09:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oNXlhNFFqVzctTksxejhSRi1SeHp5YjZ6ZE9lTHRfSW14a3FTYllCWHZZUTdVLW9XREJmMEh1dEcwa3NmbTdUZWpyc2pYblo4MjFzTlc1N1lTVTRlWTUzMHNuMEQwVFZyeGRVd3BWZFNFZG5u?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대자동차, 제조사 데이터로 인증중고차 신뢰 높인다",
+      "source": "경상일보",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:06:34+09:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwQU1BRWNubnBqM1FMRU0tdzltX2dmVkpzQ1BCMGpMQ0FDSVp0Z0g1MzlmeWFLcXo2c1V1UTFxMWp6NnN6ODFZV21CLXdjem5EOGd3Y2EwRDZrSy1Mb0pkSDRkaU1WaThwTEFFbg?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 제조사 데이터로 인증중고차 신뢰 제고 外",
+      "source": "톱데일리",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T11:06:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfUmtnZnA1QVNPYzhROG9zdE9fZGtUVUxKWi05QXg4ZmNacGR4di1iMGo4ZlBsdnFPX0U4REdjaV9TdV9ZS05IbXZTbXN0aXRB?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "hyundai_motor"
+      ],
+      "title": "현대차, 인증중고차 정보 투명성 강화 \"이전 차주 운전 습관에 EV 배터리 온점까지\"",
+      "source": "오피니언뉴스",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T10:41:08+09:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWSEF6OG8xYTJMRzIyVi1VcVcxdEdVUTVHbVFPNG5LYTFwbXQwNnd1WHg0UjI1QWZ5N3FnbGlIaGhYdUhLOVNTVTFEZFY3aF9USWw2RzNvV25OTXI4ckw1NDRIc3p4OEFrNmhaSmVURXY?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK그룹, 에너지 CEO 새 진용…수익성 격차 해소 시험대",
+      "source": "톱데일리",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T13:01:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40R1c5XzNvZXEtS1JTSEcwN09Gd1F5OC1rN1htNm15MUp1VGFSMVZvYkhBeEZmMW1FRmszeFU2Q3FzaUpLU1ZpNERJcnM0VWxa?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK스퀘어, 주주환원에 최소 4.3조원 투입...출범 이후 최대",
+      "source": "지디넷코리아",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T12:49:49+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTFNHQUgzUUlDbmstUF9GRndCTFBSYkFaQUtqZnJteHZNZzRIQnBfdmpGa2ZpeE13TmJZVjdBaGFkak9ud0lIRkpIVk9iNEthZlpvWUR3?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK텔레콤, ‘AI를 모두에게’ 기업광고 캠페인 전개…AI 대중화 비전 제시",
+      "source": "대한경제",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T12:35:58+09:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PTzh1TzNxQnFLc2dObDUtbFlaVEtyOENSUWhIZUtTTHc0dktGTEptb3ZLOVBnUVFIRWdMdENDOUR5MVhMd0JDRVJ3bWE0WGxoLWd0ZzJaeXh2MW1VTVF1NGRzVWZxNldHWU5yVkJ3VUlJcFE?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "SK스퀘어, 최소 4조3000억원 주주환원… 출범 이후 최대",
+      "source": "Chosunbiz",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T12:10:00+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUh3MWZXLVVXclROT2lBdFdRZ2tnOWs2TENfUGlqcllEOWlRejdkWHl5RzNGb01ZNDlsbDMxQjhQQl90a0EtQklhMUdGT2NvZ1NSbXk5dk1UeGw3Rl9kMkVKclVTQ0ZpMjBUWm1JcWVpWHUtM05ZUi1nY3lZc20yTV9R0gGWAUFVX3lxTFBxS1IzVFZsV0pPYTVfUXhUVG1oZ1pDWm9xTDJYSFRtYi0yZlBfc2R6emxvSlE5QlA0RDBnRzY0cHI0WXBTelBlb2xXZ083a0otYzlUM3MzdEtKc0w4NnZYdXZLS25pX1FDNWh3THllNTZuY2w5aEJiRmJHcG1JeXVlLURPLUNaellOYVBzVUl0NkM4TXpYZw?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    },
+    {
+      "companies": [
+        "sk_group"
+      ],
+      "title": "우상호 “강릉 AIDC 수사로 SK와 접촉 중단”…\"투자 찬물 걱정\"",
+      "source": "강원일보",
+      "published": "2026-11-02",
+      "published_at": "2026-11-02T12:08:55+09:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0teWc2TGxfZDVha05UOEd4TUdjckZwOTlMSkxFLTZITTgzZDZFbVJ1c1BJOEJzaEJCYkxlQ3JXSFUxQXhha3p2NTFvU09meWJQaW5BdGJEcnE0SGM?oc=5",
+      "summary": "",
+      "title_match": true,
+      "window_days": 7
+    }
+  ]
+}
