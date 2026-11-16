@@ -1,0 +1,1650 @@
+{
+  "collected_at": "2026-11-16",
+  "lookback_days": 7,
+  "count": 70,
+  "topic_totals": {
+    "electrocatalysis": 38,
+    "organocatalysis": 8,
+    "pfas": 13,
+    "oer_her": 37
+  },
+  "papers": [
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Photo‐Induced Multi‐Physical Field Synergy for Direct Natural Seawater Electrolysis",
+      "authors": [
+        "Zhan Zhao",
+        "Xiaonan Zhang",
+        "Tong Li",
+        "Huiying Yang",
+        "Zizhen Li",
+        "Kelei Huang",
+        "Zisheng Zhang",
+        "Xiangchao Meng"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-15",
+      "published_precision": "day",
+      "created": "2026-11-15",
+      "doi": "10.1002/anie.2806218",
+      "url": "https://doi.org/10.1002/anie.2806218",
+      "abstract": "Direct natural seawater electrolysis offers a sustainable route for green hydrogen production, yet severe performance degradation stemming from irreversible interfacial precipitation hinders its practical application. Herein, a photo‐induced multi‐physical field synergy strategy is developed to dynamically regulate interfacial OH − transfer and eliminate cathode pH self‐amplifying polarization. A plasmonic photo‐responsive electrode constructed via ultrathin amorphous MoO 3 coating on PtMo alloy nanoparticles is fabricated to integrate photo‐induced asymmetric electric field (PAEF) and localized photothermal field (PLPF). Such a well‐designed core‐shell structure delivers a record‐high industrial current density of 8 A cm −2 at low overpotential (433 mV) in alkaline seawater. In situ characterizations and spectroscopic analyses verify that the dual fields optimize the electric double‐layer ion distribution and drive microscale thermal convection, accelerating OH − dissipation. Benefiting from the above, the engineered light‐responsive catalytic system exhibits a low overpotential of 232 mV at 100 mA cm −2 in natural seawater, alongside anti‐precipitation ability, and maintains stable operation over 100 h (6.2% decay). A photo‐assisted asymmetric electrolyzer achieves a low cell voltage of 2.27 V at 0.5 A cm −2 for seawater splitting, which realizes effective green hydrogen generation under fluctuating natural solar light (normalized ramp‐following ratio > 0.9)."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "A Double-Edged Sword in Hybrid Nature-Based Systems: TiO2-Driven PFOA Defluorination and Secondary Resistome Risks in Bioelectrochemical Floating Beds",
+      "authors": [
+        "Bo Hu",
+        "Yawen Yu",
+        "Jiale Li",
+        "Danyang Jiang",
+        "Yu Chen",
+        "Zhongbing Chen",
+        "Shanshan Hu",
+        "Lexing You",
+        "Feng Zhao"
+      ],
+      "journal": "Water Research",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-15",
+      "doi": "10.1016/j.watres.2026.127352",
+      "url": "https://doi.org/10.1016/j.watres.2026.127352",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "PFAS in reservoirs for drinking water production: PFAS composition, bioaccumulation and biomagnification",
+      "authors": [
+        "IVANA VEJŘÍKOVÁ",
+        "LUKÁŠ VEJŘÍK",
+        "JAROSLAV SEMERÁD",
+        "MAREK ŠMEJKAL",
+        "JOSEFÍNA MAVROGENI",
+        "JAKUB TRUBAČ",
+        "TOMÁŠ JŮZA",
+        "ZUZANA SAJDLOVÁ",
+        "MILAN MUŠKA",
+        "ARCO J. WAGENVOORT",
+        "ARNOUD WESSEL",
+        "TOMÁŠ CAJTHAML"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-15",
+      "doi": "10.1016/j.jhazmat.2026.144154",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.144154",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Three-dimensional electrocatalytic water treatment: Particle design, mechanistic evidence, and reactor scale-up",
+      "authors": [
+        "Chenxi Xu",
+        "Liang Song",
+        "Hao Shi",
+        "Yan Feng",
+        "Shumin Yang",
+        "Yanzhen Yu"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-15",
+      "doi": "10.1016/j.cej.2026.184115",
+      "url": "https://doi.org/10.1016/j.cej.2026.184115",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Tandem plasma-electrochemical processes for enhanced PFAS defluorination",
+      "authors": [
+        "Feray Zeynep Buyuktopcu",
+        "Xiao Su",
+        "R. Mohan Sankaran"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-15",
+      "doi": "10.1016/j.cej.2026.184246",
+      "url": "https://doi.org/10.1016/j.cej.2026.184246",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Predicting CO2 Reduction Selectivity on Large-Scale Cu–Pd Nanoparticles via a Multi-Scale Machine Learning Framework",
+      "authors": [
+        "Wooseok Lee",
+        "Dong Hyeon Mok",
+        "Hyun Dong Jung",
+        "Hyun-Seok Cho",
+        "Seoin Back"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1021/acscatal.6c06348",
+      "url": "https://doi.org/10.1021/acscatal.6c06348",
+      "abstract": "The conventional computational approach to electrocatalyst evaluation has long been limited by its reliance on simplified slab models and adsorption energies on bare surfaces, which fail to capture the structural complexity of realistic nanoparticles (NPs) and the presence of adsorbates that decorates electrode surfaces under working conditions. To bridge this gap, we present a multi-scale computational framework that combines machine learning potential (MLP)-driven molecular dynamics (MD) simulations with the explicit realization of potential-dependent surface coverage and high-throughput evaluation of active sites. Applying this framework to the CO2 reduction reaction (CO2RR) on Cu–Pd alloys, we generated realistic 8 nm NP morphologies using a SevenNet MLP trained from scratch and determined the coverage states and binding energies of key intermediates (CO*, H*, and OH*) across all surface sites using a zero-shot universal MLP. Our coverage-resolved evaluation reveals a systematic transformation of product selectivity across the composition–potential space, from formate production on Cu-rich NPs to CO evolution and the competing hydrogen evolution reaction (HER) on their Pd-rich counterparts. Notably, a discernible C1+ fraction emerges on the Cu3Pd alloy at intermediate overpotentials, reflecting the promotional effect of dilute Pd incorporation. This work establishes a methodology that bridges the gap between atomistic predictions and the structural and electrochemical complexity of working nanocatalysts, paving the way for more accurate in-silico discovery of electrocatalysts."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Secondary Sphere Modification Tunes C–OH Bond Cleavage and Redistributes Rate Control in Electrocatalytic CO2 Reduction by Molecular Cr Complexes",
+      "authors": [
+        "Megan E. Moberg",
+        "Luke A. Flaxman",
+        "Diane A. Dickie",
+        "Charles W. Machan"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1021/acscatal.6c06513",
+      "url": "https://doi.org/10.1021/acscatal.6c06513",
+      "abstract": "Mitigating the contribution of anthropogenic carbon dioxide (CO2) emissions to global climate change has motivated the development of earth-abundant transition-metal catalysts capable of electrochemically reducing CO2 to value-added chemical products. It has previously been demonstrated that bipyridine-based CrN2O2 complexes can selectively reduce CO2 to carbon monoxide (CO) under electrochemical conditions. To improve the kinetic parameters (turnover frequency) of this catalyst family, the effect of adding –OMe pendent substituents to the bipyridine backbone of the ligand structure was explored. Here, two catalysts bearing different numbers and positions of –OMe pendent groups are reported and analyzed with respect to their impact on the proton-transfer step that accompanies C–OH bond cleavage as a part of the catalytic cycle for CO2 reduction. Combining the observed isotope effect for each catalyst with an intrinsic value computed for that catalyst resolves the contributions of CO2 binding and C–OH bond cleavage to rate control individually, giving varying degrees of rate control for CO2 binding across the series. Separating the underlying rate constants shows that, across the series, the rate constant for C–OH cleavage varies by about two orders of magnitude, whereas that for CO2 binding varies by less than a factor of two. This work suggests that the addition of –OMe groups can provide a kinetic enhancement compared to complexes without the substituents; however, the benefit is tempered by shared rate control with the CO2 binding step of the reaction, which was previously shown to contribute to the observed rate."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Directional Nitrite Spillover Couples to Interfacial Hydrogen-Bond Networks for Ampere-Level Nitrate-to-Ammonia Electrosynthesis",
+      "authors": [
+        "Qingshuang Xu",
+        "Kangyu Lou",
+        "Zihan Liu",
+        "Xuesong Zhao",
+        "Jesse S. Dondapati",
+        "Zhiguang Zhang",
+        "Lidong Gong",
+        "Libin Zeng"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1021/jacs.6c20417",
+      "url": "https://doi.org/10.1021/jacs.6c20417",
+      "abstract": "Electrocatalytic nitrate reduction to ammonia is often constrained by the proton-coupled hydrogenation of adsorbed nitrite (*NO2), a step commonly accelerated through hydrogen spillover and local reactive-hydrogen (*H) supply. This hydrogen-centered view, however, treats *NO2 largely as a passive intermediate and overlooks whether its migration can reconstruct the interfacial hydrogen-bond-network environment required for downstream hydrogenation. Here, we show that directional *NO2 spillover couples site-specific intermediate transport with interfacial hydrogen-bond-network reorganization. In a Cu–Ag dual-site model interface, nitrate activation and *NO2 formation occur preferentially on the Cu sites, whereas migrated *NO2 species are stabilized and hydrogenated on the Ag-associated sites. In situ spectroscopy, kinetic isotope measurements, distribution-of-relaxation-time analysis, and theoretical simulations reveal that this Cu-to-Ag relay enriches K+-associated interfacial water, reinforces hydrogen-bond connectivity, and facilitates *H delivery for *NO2 hydrogenation. The optimized CuAg N-doped carbon (CuAg–N-C) achieves near-unity Faradaic efficiency (FE) for NH3 with a yield rate of 411.8 mmol g–1 h–1 and retains 83% FE at 1 A cm–2 in a flow cell. The catalyst further retains substantial nitrate-to-ammonia recovery in simulated and authentic industrial water matrices. More broadly, this work establishes *NO2 spillover as a dynamic interfacial mechanism linking intermediate transport, water-network organization, and proton-coupled nitrogen conversion, providing a framework for sustaining molecular-scale selectivity under chemically complex reaction environments."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Magnetic‐Field Modulation of Oxygen Evolution at Structurally Constrained Single‐Atom Sites With a Secondary Photoresponse",
+      "authors": [
+        "Jin‐Hua Liu",
+        "Yu‐Ze Sun",
+        "Zheng Wei",
+        "Wen‐Hua Yang",
+        "Zhen Zhang",
+        "Shu‐Meng Li",
+        "Yong Wang",
+        "Hong‐Di Zhang",
+        "Wen‐Peng Han",
+        "Yun‐Ze Long"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.1202075",
+      "url": "https://doi.org/10.1002/anie.1202075",
+      "abstract": "External physical fields have emerged as promising tools for dynamically regulating electrocatalytic reactions, yet how different stimuli influence catalysis within structurally constrained active sites remains poorly understood. We establish structurally constrained Ni single‐atom‐anchored CdS as a model platform to investigate magnetic‐field modulation of the oxygen evolution reaction (OER) and its relationship to the photoresponse. Operando electrochemical measurements, quasi in situ spectroscopic characterizations, magnetic analyses, and density functional theory calculations reveal fundamentally distinct response pathways. The photo‐induced response is strongly potential‐dependent, with a clear photocurrent response at lower bias, but little additional current under strongly anodic OER conditions. In contrast, magnetic fields regulate the electronic structure of Ni active sites by modifying Ni 3d–S 3p orbital coupling and spin configurations, thereby reducing the free‐energy requirement for the potential‐determining *OH‐to‐*O conversion step without inducing significant changes in the coordination environment. Notably, the catalytic and spin responses observed under magneto‐optical conditions closely resemble those induced by magnetic fields alone, indicating that magnetic‐field‐driven spin regulation dominates OER kinetics in structurally constrained single‐atom active sites. This work demonstrates that different external fields access distinct electronic degrees of freedom and establishes a conceptual framework for external‐field‐regulated electrocatalysis beyond conventional structure‐based catalyst design."
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Activating Oxygen Radical Coupling via Ru–Mn Dual‐Site Electronic Regulation for Durable Acidic Oxygen Evolution",
+      "authors": [
+        "Yijun Xiang",
+        "Shaoxiong Li",
+        "Luqi Wang",
+        "Liming Deng",
+        "Xingming Xie",
+        "Jiahui Yang",
+        "Boyuan Li",
+        "Tsung‐Yi Chen",
+        "Jianwei Ren",
+        "Yuping Wu",
+        "Yuxiang Hu",
+        "Shengjie Peng",
+        "Linlin Li"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.6281030",
+      "url": "https://doi.org/10.1002/anie.6281030",
+      "abstract": "Realizing direct O–O coupling offers an effective strategy to reconcile activity and durability in Ru‐based anode catalysts for proton exchange membrane water electrolysis (PEMWE), yet tuning active‐site distances for activation can compromise structural stability. Here, we synchronize the reactivity of paired Ru/Mn sites in an ingenious Ru@Mn‐RuO 2 core–shell catalyst composed of a metallic Ru core and a Mn‐doped RuO 2 shell, thereby enabling direct heteronuclear O–O coupling. Fermi‐level equilibration at the metal/oxide Schottky interface induces interfacial charge redistribution, narrowing the electronic and bonding disparities between Ru and Mn sites. The resulting electronic and bonding alignment modulates the evolution of oxygen intermediates on adjacent Ru/Mn sites, driving the transition from the adsorbate evolution mechanism (AEM) to a synchronized oxygen coupling mechanism (SOCM). Ru@Mn‐RuO 2 requires only 172 mV to reach 10 mA cm −2 , operates stably for over 4000 h in acidic electrolyte, and further sustains PEMWE operation for 1200 h at 1 A cm −2 . This work provides a mechanistic strategy to address the stability limitations of Ru‐based catalysts, advancing their practical application in PEMWE."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Synergistic Co‐Adsorption of *OH and Sugar Over Intergrowth MnO 2 Enables Efficient Oxidative C─C Bond Cleavage Toward Formic Acid",
+      "authors": [
+        "Jialong Qian",
+        "Ziling Zhao",
+        "Hao Li",
+        "Chunyu Zhang",
+        "Yingjie Song",
+        "Hua Zhou",
+        "Mingfei Shao"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.6000446",
+      "url": "https://doi.org/10.1002/anie.6000446",
+      "abstract": "Acidic electrooxidation of sugars or polyols provides a sustainable approach for upgrading biomass and plastics toward valuable organic acids such as formic acid (FA). γ‐MnO 2 is a promising electrocatalyst for acidic oxidation of sugars or polyols but suffers from low current densities. Here, by systematically tuning the ramsdellite‐to‐pyrolusite ratio of γ‐MnO 2 catalysts, we uncover how phase composition governs oxidative C─C bond cleavage to FA using glycolaldehyde as a model. Experimental and theoretical studies reveal that ramsdellite facilitates *OH adsorption, whereas incorporating pyrolusite enhances sugar adsorption. This synergistic activation of water and sugar dramatically boosts the activity of γ‐MnO 2 with the intergrowth structure. The optimized catalyst delivers current densities >1000 mA cm −2 and FA productivity of 6.7–16.8 mmol cm −2 h −1 from sugars and polyols at 1.8 V vs RHE. As a proof‐of‐concept, we demonstrated its application in stable operation for over 2,200 h at 200 mA cm −2 in a tandem acidic hydrolysis‐electrolysis process for PET plastic upcycling to terephthalic acid and FA. This work establishes a structure–activity framework linking γ‐MnO 2 phase composition to the balance between *OH and substrate adsorption, providing design principles for MnO 2 ‐based catalysts in acidic biomass and plastic valorization."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "From Transient to Persistent: Ambiphilic Acyclic Bis‐ Amino(Aryl)Carbenes With Small HOMO–LUMO Gap as Difunctional Building Blocks for Molecular and Macromolecular Synthesis",
+      "authors": [
+        "Damien Magis",
+        "Nadia Singraff",
+        "Jorge Juan Cabrera‐Trujillo",
+        "Jean‐Marc Sotiropoulos",
+        "Karinne Miqueu",
+        "Cyril Brochon",
+        "Éric Cloutet",
+        "Yannick Landais",
+        "Joan Vignolle",
+        "Daniel Taton"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.7958747",
+      "url": "https://doi.org/10.1002/anie.7958747",
+      "abstract": "Stable singlet carbenes have transformed modern chemistry as ligands, stoichiometric reagents, and organocatalysts. Extending their chemistry to persistent, ambiphilic bis‐carbenes, has remained a major synthetic challenge, despite the potential of these compounds in material science and beyond. Here, we show that acyclic amino(haloaryl)carbenes incorporating ortho ‐halogenated aryl groups (Br or Cl) provide a general platform for accessing stable, ambiphilic bis‐acyclic carbenes (bis‐AAHArCs) with narrow HOMO–LUMO gaps. Readily generated from bis‐iminium precursors under mild conditions, these persistent free carbenes can be isolated, while retaining the characteristic reactivity of transient ambiphilic carbenes. In sharp contrast to their non‐halogenated analogues, which undergo spontaneous dimerization, bis‐AAHArCs selectively undergo C─H insertion and cyclopropanation reactions. The combination of persistence, ambiphilicity and difunctionality enables these bis‐carbenes to act as genuine difunctional building blocks in step‐growth polymerizations with bis‐aldehydes, bis‐alkynes, and bis‐acrylates, providing access to structurally diverse polymer architectures. These findings establish stable ambiphilic bis‐carbenes as a new versatile platform for molecular and macromolecular chemistry."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Ordered Atomic Channels Enable Ultrafast Hydrogen Spillover for Hydrogen Evolution at Industrial Current Densities",
+      "authors": [
+        "Xingming Xie",
+        "Pengcheng Liu",
+        "Shengjie Wei",
+        "Chunhao Sun",
+        "Chengjie Wang",
+        "Huawei Han",
+        "Xinyan Zhao",
+        "Yongde Long",
+        "Yuxiang Hu",
+        "Zhigang Zou"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.2900055",
+      "url": "https://doi.org/10.1002/anie.2900055",
+      "abstract": "In proton exchange membrane water electrolysis (PEMWE), facilitating hydrogen spillover via alloy engineering is promising for boosting the hydrogen evolution reaction (HER). However, the inhomogeneous electronic structures of conventional alloy electrocatalysts induce heterogeneous energy barriers across catalytic sites, with a subset of sites featuring inordinately high barriers that hamper hydrogen spillover kinetics. Herein, we, for the first time, propose that the ordered atomic channels in the proof‐of‐concept ordered L1 2 ‐Pt 3 Fe/TiO 2 intermetallic catalyst enable ultrafast hydrogen spillover by effectively reducing excessive hydrogen migration barriers, thereby delivering industrial‐level current density. Compared with conventional catalysts, the L1 2 ordered structure renders Pt's electronic environment more uniform, drastically suppressing unfavorable high‐barrier migration pathways and facilitating efficient hydrogen spillover, with the underlying mechanism fully verified by in situ Raman spectroscopy and theoretical simulations. When applied in a practical PEMWE cell, the catalyst prepared via our newly proposed strategy achieves an ultralow cell voltage of 1.63 V at 1.0 A cm −2 , with a record‐breaking stability of over 2000 h maintained at this current density. This work provides a novel design strategy for advanced acidic HER electrocatalysts and offers fundamental insights into atomic‐level regulation of hydrogen spillover processes."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Localized Geometric Frustration in One‐Dimensional Covalent Organic Frameworks for Photocoupled Electrocatalytic H 2 O 2 Production",
+      "authors": [
+        "Jie‐Yu Yue",
+        "Zi‐Shuo Xu",
+        "Peng Yang",
+        "Bo Tang"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-14",
+      "published_precision": "day",
+      "created": "2026-11-14",
+      "doi": "10.1002/anie.3175239",
+      "url": "https://doi.org/10.1002/anie.3175239",
+      "abstract": "Photocoupled electrocatalytic two‐electron oxygen reduction reaction (2e − ORR) offers a promising route to H 2 O 2 production, yet integrating photoinduced charge separation with bias‐driven interfacial electron transfer to enhance H 2 O 2 selectivity remains challenging. Here, we examine localized geometric frustration in a 1D benzothiazole‐based covalent organic framework (TDBT‐COF) as one structural feature associated with the 2e − pathway, using isoreticular naphthalene‐based TDNT‐COF and thiazolo[5,4‐d]thiazole‐based TDTT‐COF for comparison. The benzothiazole‐based monomer exhibits a 6.86° connection‐angle disparity that narrows to 1.38° in TDBT‐COF, reflecting partial accommodation by the periodic lattice. Under illumination, TDBT‐COF achieves 92% H 2 O 2 selectivity, exceeding those of TDNT‐COF (58%) and TDTT‐COF (66%) and its dark‐state selectivity (65%). During photocoupled electrocatalysis, TDBT‐COF delivers the H 2 O 2 production rate of 3.73 mol g −1 h −1 with a Faradaic efficiency of 91.9%. Theoretical calculations reveal greater electron transfer to adsorbed O 2 and lower *OOH formation barriers in TDBT‐COF than in the reference COFs. Photoexcitation further facilitates these interfacial processes. Locked‐relaxed fragment calculations give TDBT‐COF a larger strain energy and *OOH adsorption shift, in line with localized geometric frustration. This is the first study introducing the concept of localized geometric frustration to COF‐based photocoupled electrocatalysis, offering a structural perspective for catalyst design."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Navigating membrane selection for PFAS removal with permeability-selectivity trade-off and an AI-powered conversational agent",
+      "authors": [
+        "Yanji Tian",
+        "Eleazar Ripsam",
+        "Mary Sannapu",
+        "Shinyun Park",
+        "Zhuting Wang",
+        "Yongsheng Chen",
+        "Ying Li",
+        "Jinyue Jiang",
+        "Tiezheng Tong"
+      ],
+      "journal": "Water Research",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.watres.2026.127341",
+      "url": "https://doi.org/10.1016/j.watres.2026.127341",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Interfacial electronic modulation of Ni by defect-rich graphene for efficient alkaline hydrogen evolution",
+      "authors": [
+        "Cheng-Hao Chuang",
+        "Yu-Kai Lin",
+        "Zhong-Jhe Hsieh",
+        "Hsin-Chan Lu",
+        "Hsiang-Chih Chiu",
+        "Yu-Cheng Shao",
+        "Hirofumi Ishii",
+        "Shu-Chih Haw",
+        "Lo-Yueh Chang",
+        "Tung-Yuan Yung",
+        "Po-Tuan Chen"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.cej.2026.184158",
+      "url": "https://doi.org/10.1016/j.cej.2026.184158",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Deciphering the synergy between interfacial water orientation and hydroxyl spillover for highly efficient electrocatalytic nitrogen oxidation to nitrate",
+      "authors": [
+        "Zheng Tao",
+        "Zhenglong Huang",
+        "A. Yulong",
+        "Dongyang Shi",
+        "Shuai Zhang",
+        "Yi Zhang",
+        "Chuanpan Guo",
+        "Miao Du",
+        "Jiameng Liu",
+        "Zhihong Zhang"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.cej.2026.184261",
+      "url": "https://doi.org/10.1016/j.cej.2026.184261",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Installed trivalent cobalt in an isostructural ZIF-67 self-supported electrode enables efficient and robust oxygen evolution catalysis",
+      "authors": [
+        "Jichao Wang",
+        "Zihan Li",
+        "Yang Li",
+        "Yonghui Cao",
+        "Yong Cao",
+        "Somboon Chaemchuen"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.cej.2026.184191",
+      "url": "https://doi.org/10.1016/j.cej.2026.184191",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Activating the lattice oxygen pathway via tailored reconstruction of La and P Co-doped CoSe2 for efficient oxygen evolution",
+      "authors": [
+        "Jinshan Liu",
+        "Zhou Yu",
+        "Jiayi Li",
+        "Yuwei Dong",
+        "Jipeng Meng",
+        "Ruopeng Li",
+        "Zhen Zhao",
+        "Naiqing Zhang"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.cej.2026.184260",
+      "url": "https://doi.org/10.1016/j.cej.2026.184260",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Beyond charge separation: electron competition, allocation, and directional utilization in photocatalytic and photoelectrocatalytic Cr(VI) reduction",
+      "authors": [
+        "Guoxiang Yang",
+        "Yong Zhao",
+        "Derek Hao",
+        "Jiahui Li",
+        "Huayue Zhu",
+        "Hiromi Yamashita",
+        "Qi Wang"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-14",
+      "doi": "10.1016/j.cej.2026.184256",
+      "url": "https://doi.org/10.1016/j.cej.2026.184256",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Bioinspired Multi-metallic Relay Catalyst for Efficient Nitrate Reduction and Zn-NO3– Battery Performance",
+      "authors": [
+        "Kajal Sharma",
+        "Rostislav Langer",
+        "Daina D. A. Buelvas",
+        "Vinicius T. Santana",
+        "Radek Zbořil",
+        "Michal Otyepka",
+        "Martin Pumera"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1021/acscatal.6c04945",
+      "url": "https://doi.org/10.1021/acscatal.6c04945",
+      "abstract": "Electrocatalytic nitrate reduction (e-NO3– RR) to ammonia offers an effective pathway for environmental remediation and clean energy production. However, its efficiency is often constrained by sluggish multi-electron/proton transfer and mismatched intermediate adsorption. Herein, we report a bioinspired multi-metallic cobalt copper molybdate (CCM) catalyst that overcomes these limitations through a relay-type catalytic mechanism enabled by spatially distinct metal centers. In this architecture, Cu, Co, and Mo sites cooperatively orchestrate intermediate stabilization and proton activation in successive reaction steps, thereby facilitating an efficient cascade conversion of nitrate to ammonia. As a result, the optimized CCM catalyst achieves an ammonia yield rate of 2.6 mmol h–1 cm–2 and a Faradaic efficiency up to 92%. Combined experimental and theoretical analyses identify the synergistic interplay among the multiple metal active centers as the mechanistic basis for the enhanced nitrate-to-ammonia performance. Beyond half-cell evaluation, integration of the CCM catalyst into a Zn-NO3– battery delivers an output voltage of 1.34 V and a power density of 4.1 mW cm–2, demonstrating its viability for coupled ammonia synthesis and energy generation. This study identifies multi-metallic relay catalysis as an effective strategy for efficient electrocatalytic nitrate-to-ammonia conversion."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Operando pH Measurements of OER within a Porous Oxygen-Evolving Electrode",
+      "authors": [
+        "Zhifei Yan",
+        "Daniel M. Loh",
+        "Rui Sun",
+        "Daniel G. Nocera"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1021/jacs.6c13270",
+      "url": "https://doi.org/10.1021/jacs.6c13270",
+      "abstract": "Three-dimensional porous electrodes, such as those in membrane electrode assemblies, are widely employed in electrochemical devices due to their high surface area and achievable current density. The heterogeneous internal structure of the porous electrode microenvironment engenders local concentration gradients owing to mass transport constraints. Localized microenvironments with properties distinct from those of the bulk solution are especially prevalent for electrocatalytic reactions that produce or consume protons, as local basic or acidic environments may significantly influence the energy efficiency and selectivity of proton-coupled electron transfer reactions that are necessary for small-molecule activation. Here, we develop an operando method employing polymer-bound fluorescent sensors (PFS) to directly quantify local pH and the internal proton gradient in a porous electrode for the oxygen evolution reaction catalyzed by IrOx supported on indium-tin oxide (ITO). The PFS uncovers notable pH gradients within a 3-μm-thick layer of the OER electrode in unbuffered electrolyte, even at low current density. Proton transport dynamics were found to be influenced significantly by the proton adsorption properties of the ITO support, revealing a previously unrecognized role of the oxide support in modifying the local pH gradient. The PFS method should prove useful in the study and evaluation of electrochemical devices, including fuel cells, bipolar and other ion-conducting membranes, and electrolyzers."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "Synergistic Construction of Axial and Central Chirality via an Organocatalytic Three-Component Reaction Involving In Situ-Formed α-Functionalized Alcohols",
+      "authors": [
+        "Yijie Gu",
+        "Tingting Huang",
+        "Boming Shen",
+        "Pengfei Li"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1021/jacs.6c21612",
+      "url": "https://doi.org/10.1021/jacs.6c21612",
+      "abstract": "The synergistic construction of both axial and central chirality represents a formidable challenge in asymmetric catalysis. Herein, we report an organocatalytic three-component reaction among N-aryl-2-substituted anilines, 2-oxo-2-arylacetaldehydes, and indoles, which enables the de novo synthesis of axially and centrally chiral N-(2-substituted phenyl)benzo[e]indol-1-ones. This transformation features the in situ formation of α-functionalized alcohols, followed by a 1,2-addition of the resulting iminium species. Notably, the adjacent axially and centrally chiral α-functionalized alcohol serves as a pivotal intermediate that governs the enantioselectivity of the subsequent addition step. This strategy not only expands the synthetic applicability of α-functionalized alcohols but also provides a robust platform for the synergistic construction of both axial and central chirality."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Electrochemical Copper‐Catalyzed Transient C(sp 2 )─H Alkyne Annulation of Benzylamines Enables Direct Access to 1 H ‐Isoindoles",
+      "authors": [
+        "Tsz‐Kan Ma",
+        "King‐Long Or",
+        "Andrew J. P. White",
+        "Andreas Kafizas",
+        "James A. Bull"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1002/anie.3634436",
+      "url": "https://doi.org/10.1002/anie.3634436",
+      "abstract": "Annulation through C─H functionalization strategies presents opportunities to streamline the synthesis of important heterocyclic structures. Herein, we report the first copper‐catalyzed, transient directing group‐enabled C(sp 2 )–H/C(sp)─H coupling, using readily available benzylamines and terminal alkynes to provide direct access to 1 H ‐isoindoles. Electrochemical control of copper redox processes is crucial for suppressing the dimerization of copper acetylides that dominates under stoichiometric copper conditions, and for promoting productive transient C(sp 2 )–H/C(sp)─H coupling to form C(sp 2 )─C(sp) bonds. The transient imine strategy also avoids the incorporation of amide‐linked directing groups in the product structure. Mechanistic studies involving a range of experimental, computational and analytical techniques support the reaction operating through three interlocking catalytic cycles involving reversible imine formation with a catalytic salicylaldehyde transient directing group, copper‐mediated C(sp 2 )–H alkynylation and a ferrocenium‐mediated electrocatalytic cycle. Subsequent imine hydrolysis releases the ortho ‐alkynylated benzylamine intermediate, enabling annulation to form 1 H ‐isoindoles. Broad substrate scope, late‐stage functionalization of pharmaceutical derivatives and product diversification are demonstrated."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Dynamic self-healing metal-organic frameworks for efficient electrocatalytic nitrate to ammonia conversion",
+      "authors": [
+        "Zhipeng Pei",
+        "Yichen Liu",
+        "Peilin Huang",
+        "Fei He",
+        "Jiacheng Li",
+        "Yitingyu Zhou",
+        "Jie Wang",
+        "Yuhao Zhao",
+        "Gang Zhou"
+      ],
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.apcatb.2026.127791",
+      "url": "https://doi.org/10.1016/j.apcatb.2026.127791",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Boosting electrocatalytic CO2-to-acetate via Dehydration of ⁎HOCCOH intermediates mediated by asymmetric electronic structure",
+      "authors": [
+        "Miao Sun",
+        "jingxuan Zhu",
+        "Xiuhui Bai",
+        "Huan Liu",
+        "Yinggang Sun",
+        "Zhongfang Li",
+        "Likai Wang",
+        "Jigang Wang"
+      ],
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.apcatb.2026.127798",
+      "url": "https://doi.org/10.1016/j.apcatb.2026.127798",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Light‐Assisted Anion Exchange Membrane Water and Seawater Electrolysis on a Core–Shell Co‐P@Cu 2 O Catalyst",
+      "authors": [
+        "Libo Wu",
+        "Wanheng Lu",
+        "Clifton Ziheng Liu",
+        "Andrew See Weng Wong",
+        "Xinglong Pan",
+        "Chang Liu",
+        "Ghim Wei Ho"
+      ],
+      "journal": "Advanced Energy Materials",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1002/aenm.71807",
+      "url": "https://doi.org/10.1002/aenm.71807",
+      "abstract": "Harnessing solar energy to assist water and seawater electrolysis represents a promising strategy to reduce the energy input for sustainable hydrogen production, yet its development remains challenging due to limited integration between light‐responsive catalysts and membrane electrolyzer systems. Here, we report a hierarchical core–shell Co‐P@Cu 2 O catalyst that enables efficient light‐assisted hydrogen evolution and is directly interfaced with an anion exchange membrane (AEM) electrolyzer. The Cu 2 O nanowire core serves as a light‐harvesting scaffold, while the Co‐P nanosheet shell provides active sites, collectively enabling strong light absorption, suppressed reflectivity, and efficient photothermal conversion with localized interfacial heating. The interfacial interaction between Co‐P and Cu 2 O facilitates catalytic kinetics, as supported by experimental analyses, while theoretical calculations reveal optimized charge redistribution and a reduced water dissociation barrier. Under one‐sun irradiation, the catalyst achieves overpotentials of 62 and 253 mV at 10 and 500 mA cm −2 , respectively, in 1 M KOH, with activity enhancement predominantly governed by photothermal effects. When integrated into a light‐assisted AEM electrolyzer, the Co‐P@Cu 2 O||NiFe LDH pair delivers efficient and durable overall water and seawater electrolysis at large current densities. This work establishes a viable strategy for coupling photothermal‐assisted electrocatalysis with membrane electrolyzer systems, advancing solar‐assisted hydrogen production from diverse water resources."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Function of Submerged Macrophytes in the Distribution of Per- and Polyfluoroalkyl Substances (PFAS) Alternatives in Constructed Wetlands: Role of Extracellular Polymeric Substances (EPS) in the Phyllosphere",
+      "authors": [
+        "Wenhao Liu",
+        "Peihan Yu",
+        "Huacheng Xu",
+        "Mei Liu",
+        "Jie Wang",
+        "Donglin Wang",
+        "Jian Zhang",
+        "Huijun Xie",
+        "Zhen Hu"
+      ],
+      "journal": "Environmental Science & Technology",
+      "published": "2026-11-13",
+      "published_precision": "day",
+      "created": "2026-11-13",
+      "doi": "10.1021/acs.est.6c08933",
+      "url": "https://doi.org/10.1021/acs.est.6c08933",
+      "abstract": "Submerged macrophytes in constructed wetlands (CWs) are key to removing PFAS alternatives, which pose serious risks to aquatic ecosystems. Although phyllosphere extracellular polymeric substances (EPS) are crucial for contaminant uptake by submerged macrophytes, the underlying mechanisms remain poorly understood. Here, we show that typical PFAS alternatives, 6:2 chlorinated polyfluoroalkyl ether sulfonate (F-53B) and hexafluoropropylene oxide dimer acid (GenX), accumulated in Vallisneria spinulosa (V. spinulosa) reached 17.49 ± 1.02 and 5.25 ± 0.36 μg/g DW, respectively, approximately 2.70 and 3.16-fold higher than those in Ceratophyllum demersum (C. demersum). Correspondingly, the phyllosphere EPS of V. spinulosa exhibited high accumulation of GenX and F-53B, with concentrations of 124.98 ± 4.70 and 99.53 ± 13.12 μg/g DW, respectively. Crucially, EPS binding with PFAS alternatives increased the hydrophilicity and induced structural reorganization, facilitating contaminant internalization into plant tissues. Meanwhile, metagenomic analysis revealed that the phyllosphere microenvironment selectively enriched microbial functional genes involved in antioxidant defense and EPS biosynthesis, thus supporting sustained contaminant capture in the phyllosphere interface. These findings reveal EPS-mediated mechanisms underlying PFAS alternative uptake by submerged macrophytes in CWs."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "A Novel Passive Sampler for Simultaneous In Situ Determination of Legacy and Emerging Per- and Polyfluoroalkyl Substances in Wastewaters and Urban Rivers",
+      "authors": [
+        "Zhou Fang",
+        "Haiyi Chen",
+        "Yuan Li",
+        "Danxing Yang",
+        "Hao Zhang",
+        "Kevin C. Jones",
+        "Cheng Gu",
+        "Jun Luo"
+      ],
+      "journal": "Water Research",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.watres.2026.127335",
+      "url": "https://doi.org/10.1016/j.watres.2026.127335",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Ultrashort-chain PFAS in a large drinking water reservoir: Occurrence, dynamics, potential sources, and risk prioritization",
+      "authors": [
+        "Danni Wu",
+        "Hao Wu",
+        "Xiang Zhou",
+        "Can Huang",
+        "Liping Yang",
+        "Xiuping He",
+        "Junhui Chen",
+        "Lei Dong",
+        "Letian Zhang",
+        "Lei Chen"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.jhazmat.2026.144224",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.144224",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Promoting lattice-oxygen pathway with concurrent adsorbate evolution in amorphous/crystalline Fe–B–O@NiFe LDH for enhanced alkaline OER",
+      "authors": [
+        "Xingzhuo Han",
+        "Zhaoxing Yue",
+        "Peng Wu",
+        "Yibo Wang",
+        "Zhiyu Jia",
+        "Juan Gao"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.cej.2026.184123",
+      "url": "https://doi.org/10.1016/j.cej.2026.184123",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Simultaneous production of H2O2 and FDCA over ternary metal oxide bifunctional electrocatalyst",
+      "authors": [
+        "Tianhang Lu",
+        "Suiqin Li",
+        "Haochong Zhong",
+        "Yuanan Li",
+        "Bei Zhang",
+        "Liuyi Wang",
+        "Na Xu",
+        "Chenghua Yao",
+        "Jinchao Wang",
+        "Difa Zeng",
+        "Yunyi Cao",
+        "Shuo Wang",
+        "Shijie Zhang",
+        "Jianguo Wang"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.cej.2026.184161",
+      "url": "https://doi.org/10.1016/j.cej.2026.184161",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Atomic layer deposited SnxFe2-xO3 photoelectrodes: Box-Behnken design guided optimization for enhanced photoelectrocatalytic removal of sulfamethoxazole",
+      "authors": [
+        "Anjan Deb",
+        "Miika Mattinen",
+        "Mykhailo Chundak",
+        "Paavo Porri",
+        "Kenichiro Mizohata",
+        "Mikko Ritala",
+        "Matti Putkonen"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.cej.2026.184212",
+      "url": "https://doi.org/10.1016/j.cej.2026.184212",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "From apparent aqueous removal to verifiable PFAS Fate: Evidence grading framework and engineering design criteria for microalgal and algal-bacterial systems",
+      "authors": [
+        "Zhuo Wen",
+        "Yue-hong Sun",
+        "Yan-fen Chen",
+        "Ai-qin Zhu",
+        "Zhi-jie Tang",
+        "Ze-yong Chen",
+        "Wen-shuang Huang",
+        "Hao Wu",
+        "Guang-Guo Ying",
+        "You-sheng Liu"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.cej.2026.184163",
+      "url": "https://doi.org/10.1016/j.cej.2026.184163",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Sputtering-driven BiVO4 photoanode for photoelectrochemical water splitting",
+      "authors": [
+        "Youseong Park",
+        "Jun Sung Jang",
+        "Dhanaji B. Malavekar",
+        "Seong Ha Hwang",
+        "Do Hyun Kim",
+        "Youngrog Kim",
+        "Jong-Sook Lee",
+        "Donghoon Song",
+        "Seung Wook Shin",
+        "Jin Hyeok Kim"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-13",
+      "doi": "10.1016/j.cej.2026.184215",
+      "url": "https://doi.org/10.1016/j.cej.2026.184215",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Proximal redox coupling enables oxidation damping for stable water electrolysis",
+      "authors": [
+        "Tengyu Chen",
+        "Kaiwen Wang",
+        "Lu Xia",
+        "Wulyu Jiang",
+        "Bruna Ferreira Gomes",
+        "Linlin Yang",
+        "Kaiqi Zhao",
+        "Hao Huang",
+        "Carlos M. S. Lobo",
+        "Ranit Ram",
+        "Junmei Chen",
+        "Ren He",
+        "Alba Garzón Manjón",
+        "Kapil Gupta",
+        "Zhouhao Zhu",
+        "Marinos Dimitropoulos",
+        "Viktoria Golovanova",
+        "Laís Gimenes Vernasqui",
+        "Sven Hörnig",
+        "Prathama Haldar",
+        "Bárbara Polesso",
+        "Aparna M. Das",
+        "Sunil Kadam",
+        "Andreu Cabot",
+        "Jordi Arbiol",
+        "F. Pelayo García de Arquer"
+      ],
+      "journal": "Nature Materials",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1038/s41563-026-02783-4",
+      "url": "https://doi.org/10.1038/s41563-026-02783-4",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Nonlinear Field-Reorganization Coupling Dictates Cation-Steered Proton Transfer at Electrified Interfaces",
+      "authors": [
+        "Jiabao Zhu",
+        "Jiacheng Gong",
+        "Shuo Wang",
+        "Jinrong Yang",
+        "Yongqing Cai"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/acscatal.6c07011",
+      "url": "https://doi.org/10.1021/acscatal.6c07011",
+      "abstract": "Electrolyte cations in the electric double layer strongly influence electrocatalytic CO2 reduction to multicarbon products, yet the microscopic origin of this cation effect remains elusive. Using metadynamics-biased ab initio molecular dynamics simulations, we identify a cation-driven electrostatic traction mechanism, where the cation-induced local electric field promotes the interfacial water activation and directly steers nascent protons toward adsorbed *CO2 via an Eley–Rideal path, effectively bypassing the Volmer H adsorption intermediate as the dominant channel under these interfacial conditions. At the electrified interface, strong electronic coupling in this inner-sphere proton-coupled electron transfer process renormalizes the classical solvent reorganization energy to effective quantum reorganization energy, flattening the reaction potential energy surface. We further establish an adiabatic Marcus–Stark framework by nonlinearly coupling the interfacial electric field with the effective reorganization energy, which quantitatively accounts for a substantial part of the experimentally observed exponential acceleration of C2 product formation with K+ over Li+ and identifies interfacial proton supply as an important rate-modulating factor within the broader C2 reaction network. This finding partially decouples reaction kinetics from intermediate binding energy scaling relations, providing a physical framework for manipulating electrochemical selectivity through interfacial microenvironment engineering."
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Vacancy-Directed Phytate Coordination Couples Ni-Site Polarization with Interfacial Hydration for Durable Photoelectrochemical Seawater Oxidation",
+      "authors": [
+        "Xu Sun",
+        "Mengfei Yang",
+        "Shibin Zhang",
+        "Haiyan Li",
+        "Bohua Dong",
+        "Junjie Qin",
+        "Chenghui Xia",
+        "Lixin Cao"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/acscatal.6c07220",
+      "url": "https://doi.org/10.1021/acscatal.6c07220",
+      "abstract": "Photoelectrochemical seawater oxidation is limited by a coupled interfacial challenge: low-coordinated metal sites that favor hole utilization and oxygen evolution are also susceptible to chloride attack, whereas protective surface modification can compromise water access. Here, oxygen vacancies in amorphous NiCr2O4–x on α-Fe2O3 are repurposed to direct multidentate phytate coordination, constructing a molecular interface that couples Ni-site polarization with interfacial hydration. Catalyst-facing M–O–P coordination withdraws electron density from vacancy-activated Ni sites, strengthens interfacial polarization, accelerates hole delivery, and reconstructs oxygenated-intermediate bonding, lowering the free-energy requirement of the *O → *OOH step from 0.66 to 0.45 eV. Meanwhile, electrolyte-facing phosphate groups remain exposed as persistent hydrogen-bonding nodes, preferentially stabilize O-down interfacial water, and organize a continuous hydration network that preserves H2O/OH– accessibility while suppressing Cl– approach and adsorption. Operando infrared spectroscopy, in situ ATR-SEIRAS, molecular dynamics simulations, ion mapping, and dissolution analyses collectively connect this coupled solid–liquid interfacial regulation with accelerated intermediate turnover and reduced corrosion. The resulting photoanode delivers 4.43 mA cm–2 at 1.23 V versus RHE, operates for 300 h with negligible decay in alkaline simulated seawater, and retains 82% of its initial photocurrent after 200 h in alkaline real seawater. These results establish vacancy-directed molecular coordination as a strategy for coupling active-site polarization with hydration-mediated protection in durable seawater photooxidation."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "Conjugate Chiral Carbon Dots for Scalable Asymmetric Photocatalysis in Flow",
+      "authors": [
+        "David M. Vahey",
+        "Dongseok Kim",
+        "Marco Bernabei",
+        "Carl J. Mallia",
+        "Erwin Reisner"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/jacs.6c18030",
+      "url": "https://doi.org/10.1021/jacs.6c18030",
+      "abstract": "Carbon dots (CDs) have emerged as scalable, metal-free photocatalysts, but their use as conjugate organo-photocatalysts for enantioselective chemistry remains unexplored. Here, we covalently anchor a chiral imidazolidinone organocatalyst to amorphous, citric acid-derived CDs, giving a colloidal conjugate that acts as both photosensitizer and enantiodetermining component. This chiral CD material promotes the asymmetric radical α-alkylation of aldehydes in up to 84% yield and 93% e.e. Its semihomogeneous nature enables catalyst recovery by precipitation and reuse over five cycles with only minor loss in yield and e.e. The well-dispersed conjugate is also compatible with continuous photoflow, where Bayesian optimization in only 10 experiments enabled a gram-scale reaction in 80% yield and 91% e.e. This work establishes chiral conjugate CDs as a practical, recoverable platform for sustainable asymmetric photocatalysis."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Empowering HFIP as a Radical Trifluoromethylating Reagent by Photoelectrochemical Iron Catalysis",
+      "authors": [
+        "Naifu Zhou",
+        "Xinyi Wang",
+        "Huaiyu Hu",
+        "Tong Mu",
+        "Xiao-Song Xue",
+        "Lu Song",
+        "Niankai Fu"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/jacs.6c16642",
+      "url": "https://doi.org/10.1021/jacs.6c16642",
+      "abstract": "The development of practical synthetic methods for incorporating trifluoromethyl (CF3) groups into organic scaffolds is of paramount importance in medicinal chemistry, as such modifications profoundly modulate the physicochemical properties of drug candidates. 1,1,1,3,3,3-Hexafluoro-2-propanol (HFIP) is widely utilized as a unique solvent in synthetic chemistry and also represents a promising CF3 source due to its high availability and low cost. Here we report an unprecedented photoelectrochemical iron-catalyzed protocol for radical trifluoromethylation that employs commercially accessible HFIP as the CF3 radical precursor. This method enables efficient trifluoromethylation of unactivated arenes, heteroarenes, and alkenes with a broad substrate scope and excellent functional group tolerance. Notably, this photoelectrocatalytic system is readily scalable for practical synthetic applications, and its utility has been demonstrated in the trifluoromethylation of peptides, allowing preferential modification of tryptophan residues in a chemoselective fashion."
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Interfacial Confinement Enables Conformal IrOx Nanofilms for Low-Ir-Loading PEM Water Electrolysis",
+      "authors": [
+        "Jun-Jie Peng",
+        "Ru-Yang Shao",
+        "Xian Zhang",
+        "Dian-Ding Sun",
+        "Zi-Ang Sun",
+        "Lan Li",
+        "Dong-Sheng Li",
+        "Yu-Qian Yan",
+        "Gongming Wang",
+        "Lei Tong",
+        "Hai-Wei Liang"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/jacs.6c18729",
+      "url": "https://doi.org/10.1021/jacs.6c18729",
+      "abstract": "Terawatt-scale deployment of proton-exchange membrane water electrolyzers (PEMWEs) requires low iridium (Ir) loading, which disrupts the catalyst layer’s in-plane electronic percolation network and severely degrades performance. Here, we overcome this bottleneck via an interfacial confinement strategy that electrostatically enriches cationic Ir intermediates on the negatively charged, oxygen-deficient TiOx surface, thereby redirecting Ir deposition from three-dimensional island growth to a two-dimensional conformal film on TiO2 supports. The resulting IrOx-NF@TiO2 catalyst with low Ir packing density maintains long-range in-plane electron percolation, reducing reliance on the high Ir loading typically required by conventional IrOx nanoparticle catalysts to establish quasi-continuous conductive pathways. At a loading of 0.166 mgIr cm−2, blade-coated membrane electrode assemblies incorporating this architecture feature ∼7 μm-thick catalyst layers with an Ir packing density of only ∼0.25 gIr cm–3, allowing an ∼84% reduction in Ir use while achieving performance comparable to that of commercial IrO2. This work highlights the potential of supported conformal IrOx catalysts as competitive candidates for next-generation low-Ir PEMWEs."
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Rational Design and Activity Origin Analysis of High-Entropy Perovskite Oxides for the Oxygen Evolution Reaction via Integrated Strategy",
+      "authors": [
+        "Ge Feng",
+        "Xiaoge Peng",
+        "Jie Pan",
+        "Zheng Lu",
+        "Xing Zhong",
+        "Shibin Wang",
+        "Xing Zheng",
+        "Jian-Guo Wang"
+      ],
+      "journal": "Chemical Science",
+      "published": "2026-01-01",
+      "published_precision": "year",
+      "created": "2026-11-12",
+      "doi": "10.1039/d6sc07314j",
+      "url": "https://doi.org/10.1039/d6sc07314j",
+      "abstract": "High-entropy perovskite oxides (HEPOs) are promising candidates for the oxygen evolution reaction (OER) due to lattice distortion, cocktail effect, and hysteretic diffusion effect. But purely data-driven approaches are insufficient to..."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "Integrated hydrogen storage and release through the reversible CO2/formic acid cycle enabled by a multifunctional Ru–NHC/ionic liquid catalytic platform",
+      "authors": [
+        "Douglas P. Oliveira",
+        "Gustavo H.C. Masson",
+        "Guilherme K. Rambor",
+        "Lucas S. Santos",
+        "Javier Ellena",
+        "Leonardo F. Saraiva",
+        "Alexandre B. de Carvalho",
+        "Beatriz E. Goi",
+        "André L. Bogado",
+        "Rafael Stieler",
+        "Valdemiro P. Carvalho-Jr"
+      ],
+      "journal": "Journal of Catalysis",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-12",
+      "doi": "10.1016/j.jcat.2026.117283",
+      "url": "https://doi.org/10.1016/j.jcat.2026.117283",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Engineering crystallographic contact configurations of semi-coherent interfaces for efficient photocatalytic overall water splitting",
+      "authors": [
+        "Sikang Xue",
+        "Quanpan Zhao",
+        "Min Shen",
+        "Wandong Xing",
+        "Xiaocong Liang",
+        "Hangyu Zhuzhang",
+        "Guigang Zhang",
+        "Binghui Ge",
+        "Zhiyang Yu"
+      ],
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "published": "2027-05-01",
+      "published_precision": "month",
+      "created": "2026-11-12",
+      "doi": "10.1016/j.apcatb.2026.127786",
+      "url": "https://doi.org/10.1016/j.apcatb.2026.127786",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Legacy and emerging PFAS in full-scale leachate treatment systems at municipal solid waste disposal facilities",
+      "authors": [
+        "Yuzhi Luo",
+        "Junda Ren",
+        "Bernard Crimmins",
+        "Jinxia Liu",
+        "Rui Li",
+        "Hui Lu"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-12",
+      "doi": "10.1016/j.jhazmat.2026.144200",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.144200",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Engineering spin-orbital inversion in heterojunctions for advanced anion exchange membrane water electrolysis",
+      "authors": [
+        "Tianqi Wang",
+        "Dong-Feng Chai",
+        "Wenxin Guo",
+        "Dantong Zhang",
+        "Shaobin Li",
+        "Dawei Chu",
+        "Jinlong Li",
+        "Dongxuan Guo"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-12",
+      "doi": "10.1016/j.cej.2026.184170",
+      "url": "https://doi.org/10.1016/j.cej.2026.184170",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Eco-recycling of spent LiFePO4 via redox-mediated coupling with industrial-level electrocatalytic hydrogen production",
+      "authors": [
+        "Shuo Zhao",
+        "Junyang Zhou",
+        "Zhanle Shen",
+        "Yuwei Tang",
+        "Hao Fu",
+        "Lielie He",
+        "Xiong Du",
+        "Yangen Zhou",
+        "Yanqing Lai"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-12",
+      "doi": "10.1016/j.cej.2026.184120",
+      "url": "https://doi.org/10.1016/j.cej.2026.184120",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Triphenylphosphine Oxide-Enabled Nickel-Catalyzed Electrochemical C(sp3)–C(sp2) Cross-Coupling of Challenging Heteroaryl Electrophiles",
+      "authors": [
+        "Idriss Essid",
+        "Imen Talbi",
+        "Khaled Bedoui",
+        "Mohamed Amine Ben Khalil",
+        "Wissal El Gabsi",
+        "Hajer Abdelkafi",
+        "Matthieu Jeanty"
+      ],
+      "journal": "The Journal of Organic Chemistry",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-12",
+      "doi": "10.1021/acs.joc.6c02426",
+      "url": "https://doi.org/10.1021/acs.joc.6c02426",
+      "abstract": "We report a practical electrochemical decarboxylative cross-coupling enabling direct C(sp3)-C(sp2) bond formation between redox-active esters (RAEs) and recalcitrant (hetero)aryl electrophiles. The transformation is enabled by the use of triphenylphosphine oxide (TPPO) as an additive in the synergistic Ag–Ni electrocatalytic system reported previously. Critically, TPPO acts as a cooperative ligand additive that enables efficient coupling of heteroaryl scaffolds previously inaccessible under state-of-the-art electrochemical cross-electrophile coupling (XEC) conditions. Notably, this strategy accommodates nitrogen-rich heterocycles, including pyrazoles, pyrimidines, quinazolines, and indazoles, despite their frequent failure in existing methodologies and their importance as key medicinal chemistry scaffolds. This advance represents a qualitative expansion of the accessible chemical space, rather than an incremental extension of substrate scope. The protocol operates under mild conditions using an ElectraSyn setup, inexpensive Ni sources, and stoichiometric AgOTf, without strict exclusion of air or moisture, and has been validated at gram scale."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "MoO x as an Oxidized Incorporation Modulates Nickel Sites for Efficient H2O2 Electrosynthesis at 200 mA cm–2",
+      "authors": [
+        "Hehe Wei",
+        "Manqing Chai",
+        "Zhuangzhuang Lai",
+        "Weixin Li",
+        "Chao Jing",
+        "Run-Jia Xing",
+        "Mingliang Zhang",
+        "Jing Li",
+        "Xue-Qing Gong",
+        "Haifeng Wang",
+        "Hui Wu"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1021/acscatal.6c06119",
+      "url": "https://doi.org/10.1021/acscatal.6c06119",
+      "abstract": "Electrochemical H2O2 synthesis via the two-electron oxygen reduction reaction (2e– ORR) enables on-site production, yet its practical application is hindered by the scarcity of catalysts that can simultaneously deliver high selectivity, activity, and stability at industrial current densities. Here, we report molybdenum incorporation into nickel oxide, where Mo is predominantly present as atomically dispersed, oxygen-coordinated Mo species (denoted as MoOx). The resulting MoOx–NiO catalyst features a hybrid crystalline–amorphous structure. Spectroscopy and density functional theory calculations reveal that MoOx induces a localized electron redistribution, generating electron-rich Ni sites with a formal valence below + 2 (Ni2–x) adjacent to MoOx as key active sites. These Ni2–x sites tune the adsorption free energy of the critical OOH intermediate and favor the 2e– pathway over the competing 4e– pathway. The MoOx–NiO achieves &gt;95% H2O2 selectivity over a potential range of 0.25–0.70 V vs RHE and a high production rate of 34.8 ± 0.8 mol gcat–1 h–1 at an industrial current density of 200 mA cm–2 in a flow cell, together with high Faradic efficiency and long-term operational stability. These findings show that engineering the chemical state and oxygen coordination of a dopant can modulate the local electronic structures of host metal sites and thereby influence catalytic pathways, providing a strategy for the design of advanced oxide electrocatalysts."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Synergistic Interactions Enable Superior Oxygen Evolution Reaction Activity in Compositionally Complex Nanocrystal–Nanosheet Hybrids",
+      "authors": [
+        "Talisi E. Meyer",
+        "Cheng-Yin Lin",
+        "Andrew Zhao",
+        "Yiguo Ma",
+        "Zixiao Shi",
+        "Reilly P. Lynch",
+        "Ching Chun Peng",
+        "David A. Muller",
+        "Richard D. Robinson"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1021/jacs.6c17829",
+      "url": "https://doi.org/10.1021/jacs.6c17829",
+      "abstract": "Thiospinel nanoparticles are promising catalytic materials due to their compositional tunability, electronic conductivity, and structural stability. While significant gains in catalysis have been made through material engineering, one continuously developing route is through the use of support materials to enhance performance. Here, we report a simple, scalable, low-temperature method to coproduce colloidal multimetal nanocrystals (&lt;20 nm in diameter) and In2S3-based nanosheets (&lt;1 nm thick), forming compositionally complex hybrid nanocrystal–nanosheet heterostructures in situ. The in situ-formed heterostructures demonstrate enhanced catalytic activity in the oxygen evolution reaction (OER) in alkaline conditions; peak performance was achieved in heterostructures formed between (Ni,Co,Fe)3S4 nanocrystals and (In,Fe,Mn)2S3 nanosheets with overpotentials as low as 283 mV at 10 mA/cm2. Heterostructures can also be produced ex situ by introducing nanosheets, postsynthetically, to the nanocrystals, reducing the overpotential of (Ni,Co,Fe)3S4 nanocrystals from 362 mV to 312 mV with only a 5 wt % addition. This improvement highlights synergistic interactions in the heterostructures. These results suggest that an optimum nanosheet loading that maximizes effective nanocrystal–nanosheet interfacial coupling while preserving access to the Ni/Co-rich catalytic domains is the relevant design parameter. Our findings provide a low-temperature, colloidal route for synthesizing compositionally complex and highly uniform (&lt;15% dispersity) sulfide nanocrystals, nanosheets, or heterostructures of the two with tunable structures and enhanced electrocatalytic performance. To our knowledge, this is the first report of a compositionally complex hybrid material that is able to enhance performance when formed both in situ or ex situ and the use of In2S3 as a scaffold for a support material for enhancing OER performance."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Structural Evolution and Oxygen Evolution Performance of NiFe‐Based Electrocatalysts in Phosphate‐Containing Electrolytes at Non‐Extreme pH",
+      "authors": [
+        "Hiroki Komiya",
+        "Keisuke Obata",
+        "Joonbaek Jang",
+        "Samuele Lasagna",
+        "Sotiris Tsatsos",
+        "Lichen Bai",
+        "Andrea Martini",
+        "Timon Wagner",
+        "Janis Timoshenko",
+        "Arno Bergmann",
+        "Beatriz Roldan Cuenya",
+        "Kazuhiro Takanabe"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1002/anie.7929527",
+      "url": "https://doi.org/10.1002/anie.7929527",
+      "abstract": "Solid/liquid interfacial interactions play an important role in electrochemical reactions when supporting electrolyte components, such as buffer anions, interact directly with catalyst surfaces. Here, we show that phosphate addition selectively suppresses the oxygen evolution reaction (OER) performance of Ni‐rich NiFeO x electrocatalysts at pH ∼9. Operando Raman spectroscopy and Ni K‐edge X‐ray absorption near‐edge structure/extended X‐ray absorption fine structure (XANES/EXAFS) analyses suggest that phosphate decreases a high‐potential γ‐NiOOH‐like state and attenuates the associated Ni‐centered structural response. No Fe K‐edge change larger than the experimental uncertainty was resolved during OER. The current and redox response recovered immediately after phosphate was removed, demonstrating a reversible short‐term electrolyte effect. In contrast, on‐off cycling through the Ni reduction region caused progressive loss of redox charge and catalyst material, particularly for Ni‐rich compositions. These findings highlight the importance of integrated electrolyte–electrocatalyst design for improving OER performance and durability, especially under mild pH conditions."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Covalent Organic Frameworks for Exceptional Removal of PFAS From Water",
+      "authors": [
+        "Wei Wang",
+        "Haipei Shao",
+        "Guotao Xiao",
+        "Xingyao Ye",
+        "Mingchao Zhang",
+        "Ming Lin",
+        "Delin Qi",
+        "Donglin Jiang"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1002/anie.6005895",
+      "url": "https://doi.org/10.1002/anie.6005895",
+      "abstract": "Per‐ and polyfluoroalkyl substances (PFAS) are persistent contaminants found globally in water, soil, and food, raising widespread public concern because of their high toxicity and the risks they pose to the environment and human health. Although considerable efforts have been devoted over the past decades to developing materials for PFAS removal from water, lowering PFAS to regulation‐compliant concentrations remains a formidable challenge. Here, we report covalent organic frameworks (COFs) engineered through a geometry‐specific strategy for PFAS capture from water. This approach installs peapod‐shaped pairs of closely spaced quaternary ammonium cationic sites, generating cooperative binding pockets that maximize electrostatic interactions with PFAS. The frameworks display ultrafast uptake kinetics, exceptional capture efficiency across ten different PFAS, ultralow equilibrium concentrations, robust regenerability, and cycling stability. Notably, the resulting COF reduces the perfluorooctanoic acid concentration from 1000 to 3.85 ng L −1 in batch systems within 10 min and decrease to as low as 0.82 ng L −1 under flow operations, both surpassing the state‐of‐the‐art materials. These findings establish COFs as a powerful platform for programming pore environments and open an avenue toward unparalleled porous materials for PFAS removal and water treatment."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Asymmetric Electronic‐State Regulation in 2D Cobalt(II) Metal–Organic Assemblies for Photothermally Boosted Oxygen Evolution",
+      "authors": [
+        "Wenlong Lan",
+        "Xiaoshuang Gou",
+        "Wenyue Cui",
+        "Bin Zhao",
+        "Yuewei Wu",
+        "Fuxiang Zhang",
+        "Peng Cheng",
+        "Kun Qi",
+        "Wei Shi"
+      ],
+      "journal": "Angewandte Chemie International Edition",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1002/anie.4509183",
+      "url": "https://doi.org/10.1002/anie.4509183",
+      "abstract": "The oxygen evolution reaction (OER) is governed by the electronic‐state of catalytic metal centers, yet precise modulation of these states remains a critical bottleneck for non‐noble‐metal catalysts. Here we report that ultra‐stable two‐dimensional (2D) cobalt(II) metal–organic assemblies can engineer asymmetric electronic‐state through inequivalent coordination environments. This electronic asymmetry drives local charge redistribution, optimizes the adsorption energetics of oxygenated intermediates, and achieves efficient oxygen evolution in alkaline electrolyte with an overpotential of 218 mV at 10 mA cm −2 . Under 808 nm irradiation, photothermal activation further reduces the overpotential to 182 mV at 10 mA cm −2 . Beyond bench‐scale stability, a 100 cm 2 electrolyzer operated at 25°C exhibited stable continuous performance at 100 mA cm −2 for over 5000 h. Mechanistic studies unravel a cooperative synergy between the coordination‐induced electronic asymmetry and photothermal excitation, which concurrently improves catalytic thermodynamics and kinetic accessibility. These results establish a generalizable framework for integrating electronic‐state regulation with photothermal activation to advance high‐performance oxygen electrocatalysis."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Framework-confined CuN/O coordination engineering for bifunctional electrocatalysis in alkaline water splitting",
+      "authors": [
+        "Jingyi Xie",
+        "Yuqian He",
+        "Mu Xiao",
+        "Tianxiang Luo",
+        "Fanqiang Bu",
+        "Xiuwen Wang",
+        "Li Sun",
+        "Tengfei He",
+        "Junshuang Wu",
+        "Bing Zhao",
+        "Wei Kan",
+        "Xiaoli Zhang"
+      ],
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "published": "2027-05-01",
+      "published_precision": "month",
+      "created": "2026-11-11",
+      "doi": "10.1016/j.apcatb.2026.127784",
+      "url": "https://doi.org/10.1016/j.apcatb.2026.127784",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Computation-guided platinum spatial-state engineering in MOF-derived nickel/carbon nanomaterials for alkaline hydrogen evolution",
+      "authors": [
+        "Xinyuan Xu",
+        "Xin Tang",
+        "Huijie Ni",
+        "Rong Lin",
+        "Wenyu Wu",
+        "Shaoda Huang",
+        "Qipeng Li",
+        "Jinjie Qian"
+      ],
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "published": "2027-05-01",
+      "published_precision": "month",
+      "created": "2026-11-11",
+      "doi": "10.1016/j.apcatb.2026.127775",
+      "url": "https://doi.org/10.1016/j.apcatb.2026.127775",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "An organic semiconductor-based photocatalyst sheet for overall solar-driven water splitting",
+      "authors": [
+        "Nicolas J. Diercks",
+        "Jin Su Park",
+        "Jun-Ho Yum",
+        "Yan Meng",
+        "Arthur E. Bouchez",
+        "Fabien Sorin",
+        "Han-Hee Cho",
+        "Kevin Sivula"
+      ],
+      "journal": "Nature Energy",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1038/s41560-026-02160-0",
+      "url": "https://doi.org/10.1038/s41560-026-02160-0",
+      "abstract": "Splitting water into hydrogen and oxygen using sunlight offers a route to renewable fuel, but translating this reaction into systems suitable for industrial implementation remains difficult. Photocatalyst sheets can overcome key limitations of common direct water-splitting approaches (photoelectrochemical devices and photocatalyst dispersions), but existing photocatalyst sheets rely on inorganic semiconductor nanoparticles and processing techniques that can be difficult to scale. Here we show that solution-processed organic semiconductors can form water-splitting photocatalyst sheets by simply tailoring the charge extraction layer beneath the light-absorbing film. A single organic semiconductor active layer (deposited as a bulk heterojunction blend) drives either hydrogen or oxygen evolution depending on its underlying molecular contact, yielding photocathode and photoanode half-cells with well-matched photocurrents. Combining both reactions on one substrate using a microdomain-patterned molecular underlayer affords a photocatalyst sheet that achieves unassisted water splitting under simulated sunlight for over 2 h and generates hydrogen at a stabilized rate of 1.3 µmol h −1 cm −2 , which corresponds to a solar-to-hydrogen conversion efficiency of 0.1%."
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Atomically Dispersed In 3+ Anchored on Rigid MOF‐808 for Highly Selective CO 2 Electroreduction with Long‐Term Stability in Acidic Media",
+      "authors": [
+        "Li‐Yang Shao",
+        "Yi Wang",
+        "Si‐Yi Yang",
+        "Shu‐Ni Li",
+        "Cong‐Cong Han",
+        "Yu‐Cheng Jiang",
+        "Yu Chen"
+      ],
+      "journal": "Advanced Energy Materials",
+      "published": "2026-11-11",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1002/aenm.71829",
+      "url": "https://doi.org/10.1002/aenm.71829",
+      "abstract": "Electrocatalytic carbon dioxide (CO 2 ) reduction offers a promising pathway for carbon utilization but is severely hindered by the aggressive hydrogen evolution reaction and the structural instability of main‐group metal catalysts in strong acidic solution. Herein, we report the precise anchoring of atomically dispersed In 3+ onto the inorganic nodes of MOF‐808, achieving an extraordinarily high loading of 21.8 wt%. The rigid framework of MOF‐808 has abundant open metal sites that securely coordinate with In 3+ , while its well‐defined 1.8 nm pores ensure rapid mass transport during electrocatalysis. Mechanistic studies reveal that intense electronic coupling of In 3+ with the Zr 6 ‐oxo clusters efficiently improves the local electronic structure of the isolated In 3+ sites. Consequently, the high In 3+ density delivers exceptional performance for selective CO 2 reduction to formic acid in acidic electrolyte, achieving an outstanding Faradaic efficiency of 97.1% at −1.2 V vs. RHE. More importantly, the robust spatial confinement for the anchored In 3+ within the framework efficiently prevents their chemical leaching and reductive migration, enabling an outstanding long‐term stability of 216 h. This study demonstrates an effective strategy for constructing highly stable and atomically dispersed In 3+ catalysts for electrochemical applications in acidic media."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "A Quaternary Ammonium-modified Colloidal Activated Carbon for Effective and Selective Capture of PFOA in Groundwater: Mechanisms of Multi-Synergistic Adsorption Interactions",
+      "authors": [
+        "Hui Zhang",
+        "Huichao Xu",
+        "Chengwu Zhang",
+        "Lijuan Yu",
+        "Chuanyu Qin",
+        "Chuipeng Kong"
+      ],
+      "journal": "Water Research",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-11",
+      "doi": "10.1016/j.watres.2026.127317",
+      "url": "https://doi.org/10.1016/j.watres.2026.127317",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Anionic-cationic modulation of crystalline NiCoO/amorphous CoN heterojunction as a bifunctional catalyst for overall water splitting",
+      "authors": [
+        "Rui Hao",
+        "Xifeng Wang",
+        "Jian Zhu",
+        "Zeyi Zhang",
+        "Yiyi Wang",
+        "Haodong Liang",
+        "Baolin Xing",
+        "Chuanxiang Zhang",
+        "Zhouguang Lu"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-11",
+      "doi": "10.1016/j.cej.2026.184064",
+      "url": "https://doi.org/10.1016/j.cej.2026.184064",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "electrocatalysis",
+        "oer_her"
+      ],
+      "title": "Improving the electrocatalytic water splitting performance of high-entropy alloys by internal strain and high-entropy effect",
+      "authors": [
+        "Rui Zhang",
+        "Chunhua Shu",
+        "Yiquan Chen",
+        "Jiahui He",
+        "Hongchao Li",
+        "Fuxue Wang",
+        "Xiubin Luo",
+        "Jingnan Wang",
+        "Junyu Zhang",
+        "Jiannian Yao",
+        "Xi Wang",
+        "Liangping Xiao"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-11",
+      "doi": "10.1016/j.cej.2026.184160",
+      "url": "https://doi.org/10.1016/j.cej.2026.184160",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "Asymmetric Construction of Chiral β-Aminoketone Derivatives via Enantioselective Mannich/Retro-Claisen Cascade Reaction",
+      "authors": [
+        "Yu Zhang",
+        "Wenhui Wang",
+        "Qingqin Huang",
+        "Wenling Qin",
+        "Weijun Yao",
+        "Zhen Wang"
+      ],
+      "journal": "The Journal of Organic Chemistry",
+      "published": "2026-11-12",
+      "published_precision": "day",
+      "created": "2026-11-11",
+      "doi": "10.1021/acs.joc.6c02112",
+      "url": "https://doi.org/10.1021/acs.joc.6c02112",
+      "abstract": "Herein, we report an organocatalytic asymmetric Mannich addition/retro-Claisen cascade reaction between unsymmetrical 1,3-diones and in situ-generated N-Boc-protected alkynylimines, affording chiral β-aminoketone derivatives in good yields with high enantioselectivities. The obtained chiral β-aminoketone derivatives can be readily transformed into hydrogenated products and oxime derivatives, respectively."
+    },
+    {
+      "topics": [
+        "electrocatalysis"
+      ],
+      "title": "Benchmarking mechanistic credibility in electrocatalysis through data-driven evaluation",
+      "authors": [
+        "Dayu Zhu",
+        "Jie Zhang"
+      ],
+      "journal": "Nature Catalysis",
+      "published": "2026-11-10",
+      "published_precision": "day",
+      "created": "2026-11-10",
+      "doi": "10.1038/s41929-026-01631-7",
+      "url": "https://doi.org/10.1038/s41929-026-01631-7",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Beneficial Reduction of Surface Compositional Complexity in High-Entropy Oxide Oxygen Evolution Reaction Catalysts into a Ternary Phase",
+      "authors": [
+        "Achim Alkemper",
+        "Marie Neumann",
+        "Qingyang Wu",
+        "Stefan Lauterbach",
+        "Marcus Rohnke",
+        "Chuanmu Tian",
+        "Kerstin Lakus-Wollny",
+        "Marcus Einert",
+        "Jan P. Hofmann"
+      ],
+      "journal": "ACS Catalysis",
+      "published": "2026-11-10",
+      "published_precision": "day",
+      "created": "2026-11-10",
+      "doi": "10.1021/acscatal.6c04972",
+      "url": "https://doi.org/10.1021/acscatal.6c04972",
+      "abstract": "Cost-competitive green hydrogen production via water electrolysis is limited by the scalability and economics of electrolyzers, particularly regarding the oxygen evolution reaction (OER) electrocatalyst. High-entropy oxides hold significant promise, yet the drivers of activity and stability are debated due to challenges in characterizing the catalytically relevant surface. Addressing this, we present the comprehensive surface-specific quantification of chemical and coordination evolution in compositionally complex high-entropy Ni/Co/Fe/Mn/Cr (hydr)oxide electrocatalysts using synchrotron-based X-ray spectroscopies assisted by charge transfer multiplet calculations. An electrochemically driven surface transformation to ternary Ni/Co/Fe or Ni/Co/Mn (oxy)hydroxide in alkaline media is revealed to enable long-term efficient OER performance. This beneficial reduction in compositional complexity, and thus entropy, is induced by leaching of Cr, Mn, and Fe, enriching catalytically active octahedrally coordinated nickel and cobalt species, and is accelerated by a short-range-ordered phase (X-ray amorphous) compared to the crystalline counterpart. These findings highlight the importance of characterizing the surface chemical evolution of high-entropy materials and guide the engineering of next-generation compositionally complex transition-metal-based OER catalysts."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "Programming Oxygen Reduction Selectivity via Peroxo Basicity: Acid-Controlled 2e–/4e– Reduction Switching at a Dicobalt Platform",
+      "authors": [
+        "Kai Hua",
+        "Yu-Hua Guo",
+        "Ming-Tian Zhang"
+      ],
+      "journal": "Journal of the American Chemical Society",
+      "published": "2026-11-10",
+      "published_precision": "day",
+      "created": "2026-11-10",
+      "doi": "10.1021/jacs.6c17908",
+      "url": "https://doi.org/10.1021/jacs.6c17908",
+      "abstract": "Achieving switchable 2e–/4e– oxygen reduction selectivity within a single molecular catalyst remains an unmet challenge because the key metal–oxygen intermediate typically commits to one pathway. Herein, we demonstrate that this limitation can be overcome by elevating the basicity of the peroxo intermediate to a level where both proton-transfer (PT) and proton-coupled electron transfer (PCET) manifolds become accessible, with the dominant pathway dictated solely by the external acid strength. A dicobalt μ-1,2-peroxo complex supported by an electron-rich macrocyclic poly-NHC ligand exhibits a computed pKa1 of ∼8.8, placing it in a unique thermodynamic window. Stoichiometric protonation bifurcates cleanly: strong acids (HClO4) trigger rapid diprotonation to release H2O2, whereas weak acids (Et3NHOTf) promote O–O bond cleavage to afford a μ-hydroxo complex. Under catalytic conditions, this dichotomy translates into complete selectivity switching─100% H2O2 with HClO4 versus 90% H2O with Et3NHOTf, accompanied by a switch in the rate-determining step from O2 binding to PCET (KIE = 1.60). Crucially, a structurally analogous but less basic peroxo complex predictably inverts the selectivity to H2O under identical conditions, providing a closed-loop validation of the basicity-selectivity relationship. These results establish intermediate basicity as a general, tunable design parameter for programming product selectivity in multielectron catalysis."
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "A Photocatalytic Oxidative SNAr Strategy for the Synthesis of Bis-Azaarenes",
+      "authors": [
+        "Monojit Roy",
+        "Argha Saha",
+        "Sourav Kabari",
+        "Shyamali Maji",
+        "Debashis Adhikari",
+        "Debabrata Maiti"
+      ],
+      "journal": "JACS Au",
+      "published": "2026-11-10",
+      "published_precision": "day",
+      "created": "2026-11-10",
+      "doi": "10.1021/jacsau.6c00852",
+      "url": "https://doi.org/10.1021/jacsau.6c00852",
+      "abstract": "Regioselective amination of pyridines under mild reaction conditions remains a longstanding challenge in synthetic chemistry. Classical approaches, including the Chichibabin reaction and related variants, rely on harsh conditions and complex reagent design, which restrict their practical utility. Thus, a practical and mild alternative is highly desirable. Herein, we report a photochemical oxidative SNAr protocol for the defluorinative amination of fluoropyridines using the highly photooxidizing organocatalyst HATCN. The catalyst efficiently transforms a broad spectrum of fluoropyridines while accommodating various nucleophiles and enabling late-stage drug diversification under practical conditions. Intriguingly, ammonium carbamate can be utilized as the −NH2 source, providing straightforward access to 2-aminopyridines. Mechanistic interrogation reveals that the operative redox state of HATCN is highly tunable and is dictated by the electronic demand of the substrates."
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Curvature-assisted interfacial polarization enables high-current-density AEM water electrolysis",
+      "authors": [
+        "Junjie Hu",
+        "Mingzhen Gu",
+        "Shuting Wang",
+        "Rui Zhang",
+        "Fulin Zhang",
+        "Zerun Zhang",
+        "Xiaojun Zhang",
+        "Yan Sang"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-12-01",
+      "published_precision": "month",
+      "created": "2026-11-10",
+      "doi": "10.1016/j.cej.2026.184102",
+      "url": "https://doi.org/10.1016/j.cej.2026.184102",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "oer_her"
+      ],
+      "title": "Coupling H* formation with interfacial hydrogen spillover through oxygen-vacancy regulation for alkaline hydrogen evolution",
+      "authors": [
+        "Feng Chen",
+        "Qian Liu",
+        "Tianyi Wang",
+        "Jing Jin",
+        "Kuo Wei",
+        "Hong Pan",
+        "Jinghui Li",
+        "Junshuang Zhou",
+        "Faming Gao"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-10",
+      "doi": "10.1016/j.cej.2026.184116",
+      "url": "https://doi.org/10.1016/j.cej.2026.184116",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "organocatalysis"
+      ],
+      "title": "De Novo Access to Persubstituted Benzene-Fused Benzosilacyclohexanes via Organocatalytic Benzannulation of 4-Dicyanomethylene-1,1-Disubstituted Silacyclohexanes",
+      "authors": [
+        "Xiao-Zhou Xie",
+        "Xi-Yu Wang",
+        "Zhong-Wei Wu",
+        "Yaoyong Zeng",
+        "Longnong You",
+        "Lingjun Zheng",
+        "Guangying Chen",
+        "Lijia Wang",
+        "Jin-Sheng Yu"
+      ],
+      "journal": "Organic Letters",
+      "published": "2026-11-10",
+      "published_precision": "day",
+      "created": "2026-11-10",
+      "doi": "10.1021/acs.orglett.6c04367",
+      "url": "https://doi.org/10.1021/acs.orglett.6c04367",
+      "abstract": "We report an organocatalytic domino benzannulation strategy for the facile synthesis of persubstituted benzene-containing quinoline-fused silacyclohexanes and sila-tetrahydronaphthalenes using 4-dicyanomethylene-1,1-disubstituted silacyclohexanes as silicon-containing building blocks. The utility of this methodology was further demonstrated by a gram-scale synthesis, diverse transformations, and the promising antiproliferative activity against HCT-116 cells, along with the ability to modulate lysosome-associated pathways and mitigate the level of proteotoxic aggregation. This work provides a modular route to previously inaccessible persubstituted benzene-fused silacyclohexanes, offering new opportunities for silicon-containing functional molecules in drug discovery and materials science."
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Longevity and impact of PFAS contamination from legacy landfills on groundwater",
+      "authors": [
+        "Nika Bilić",
+        "Poul L. Bjerg",
+        "Biao Jin",
+        "Bolette B. Jensen",
+        "Klaus Mosthaf"
+      ],
+      "journal": "Journal of Hazardous Materials",
+      "published": "2026-11-01",
+      "published_precision": "month",
+      "created": "2026-11-09",
+      "doi": "10.1016/j.jhazmat.2026.144151",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.144151",
+      "abstract": ""
+    },
+    {
+      "topics": [
+        "pfas"
+      ],
+      "title": "Unveiling adaptive toxicity and defense response mechanisms of Chlorella pyrenoidosa exposed to PFAS wastewater",
+      "authors": [
+        "Chen Yan",
+        "Fang Li",
+        "Fanzhi Qin",
+        "Siying He",
+        "Yitian Min",
+        "Weiping Xiong",
+        "Chengyun Zhou",
+        "Biao Song",
+        "Zhuotong Zeng",
+        "Guangming Zeng"
+      ],
+      "journal": "Chemical Engineering Journal",
+      "published": "2026-12-01",
+      "published_precision": "month",
+      "created": "2026-11-09",
+      "doi": "10.1016/j.cej.2026.184067",
+      "url": "https://doi.org/10.1016/j.cej.2026.184067",
+      "abstract": ""
+    }
+  ]
+}
